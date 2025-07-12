@@ -71,14 +71,14 @@ if uploaded_data:
                 ax.axis("equal")
                 st.pyplot(fig)
 
-            with tab4:
-                st.subheader("🧠 Segment Logic (Assumed Interpretation)")
-                st.markdown("""
-- **Segment 0:** Young, high-spending, frequent buyers.
-- **Segment 1:** Older customers, less frequent, moderate income.
-- **Segment 2:** High income, high spenders, likely families.
-- **Segment 3:** Low income, low engagement.
-""")
+#             with tab4:
+#                 st.subheader("🧠 Segment Logic (Assumed Interpretation)")
+#                 st.markdown("""
+# - **Segment 0:** Young, high-spending, frequent buyers.
+# - **Segment 1:** Older customers, less frequent, moderate income.
+# - **Segment 2:** High income, high spenders, likely families.
+# - **Segment 3:** Low income, low engagement.
+# """)
     except Exception as e:
         st.error(f"❌ Failed to process uploaded CSV: {e}")
 else:
