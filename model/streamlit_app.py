@@ -78,14 +78,18 @@ if uploaded_data:
                 ax.axis("equal")
                 st.pyplot(fig)
 
-#             with tab4:
-#                 st.subheader("🧠 Segment Logic (Assumed Interpretation)")
-#                 st.markdown("""
-# - **Segment 0:** Young, high-spending, frequent buyers.
-# - **Segment 1:** Older customers, less frequent, moderate income.
-# - **Segment 2:** High income, high spenders, likely families.
-# - **Segment 3:** Low income, low engagement.
-# """)
+            with tab4:
+                st.subheader("🧠 Segment Logic (Assumed Interpretation)")
+                for cluster_id in sorted(df["Cluster"].unique()):
+                cluster_df = df[df["Cluster"] == cluster_id]
+                st.markdown(f"### 🔹 Segment {cluster_id}")
+                st.write(f"🧮 **Total Customers:** {len(cluster_df)}")
+                st.write(f"📊 **Avg Age:** {cluster_df['Age'].mean():.1f}")
+                st.write(f"💸 **Avg Income:** ₹{cluster_df['Annual_Income'].mean():,.0f}")
+                st.write(f"💳 **Avg Spending Score:** {cluster_df['Spending_Score'].mean():.1f}")
+                st.write(f"🛍️ **Avg Total Spending:** ₹{cluster_df['Total_Spending'].mean():,.0f}")
+                st.write(f"👨‍👩‍👧‍👦 **Avg Family Size:** {cluster_df['Family_Size'].mean():.1f}")
+                st.markdown("---")
     except Exception as e:
         st.error(f"❌ Failed to process uploaded CSV: {e}")
 else:
