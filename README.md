@@ -1,6 +1,6 @@
-# customerSegmentation project
+# Customer Segmentation Project
 
-A smart and interactive web application for performing **customer segmentation** using **KMeans clustering**.  
+A smart and interactive web application for performing **Customer Segmentation** using **KMeans clustering**.  
 Built with **Streamlit**, this app allows users to upload their own customer dataset, analyze clusters dynamically, and explore rich insights through visual dashboards.
 
 ---
@@ -59,7 +59,7 @@ If the dataset structure differs, upcoming versions will allow column mapping or
 ## 🏁 Run Locally
 
 ```bash
-git clone https://github.com/your-username/customer-segmentation.git
+git clone https://github.com/devendra011396/cust_segmentation.git
 cd customer-segmentation
 pip install -r requirements.txt
 streamlit run model/streamlit_app.py
