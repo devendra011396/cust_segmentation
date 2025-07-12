@@ -57,6 +57,9 @@ if uploaded_data:
             with tab1:
                 st.subheader("📁 Uploaded Customer Data with Cluster Labels")
                 st.dataframe(df)
+                filter_cluster = st.selectbox("🔎 Filter by Cluster", options=["All"] + sorted(df["Cluster"].unique().tolist()))
+                filtered_df = df if filter_cluster == "All" else df[df["Cluster"] == filter_cluster]
+                st.dataframe(filtered_df)
                 # 💾 Add download button
                 csv_clustered = df.to_csv(index=False).encode("utf-8")
                 st.download_button(
@@ -68,6 +71,30 @@ if uploaded_data:
             with tab2:
                 st.subheader("📊 Cluster-Wise Summary")
                 st.dataframe(df.groupby("Cluster").mean(numeric_only=True))
+                st.markdown("#### 📈 Radar Chart of Cluster Averages")
+                import numpy as np
+                import matplotlib.pyplot as plt
+
+                numeric_cols = ["Age", "Annual_Income", "Spending_Score", "Purchase_Frequency",
+                    "Total_Spending", "Family_Size"]
+                cluster_means = df.groupby("Cluster")[numeric_cols].mean()
+
+                categories = list(cluster_means.columns)
+                num_vars = len(categories)
+                angles = np.linspace(0, 2 * np.pi, num_vars, endpoint=False).tolist()
+                angles += angles[:1]
+
+                fig, ax = plt.subplots(figsize=(6, 6), subplot_kw=dict(polar=True))
+                for i, row in cluster_means.iterrows():
+                  values = row.tolist()
+                  values += values[:1]
+                  ax.plot(angles, values, label=f"Cluster {i}")
+                  ax.fill(angles, values, alpha=0.1)
+                ax.set_theta_offset(np.pi / 2)
+                ax.set_theta_direction(-1)
+                ax.set_thetagrids(np.degrees(angles[:-1]), categories)
+                plt.legend(loc='upper right', bbox_to_anchor=(1.3, 1.1))
+                st.pyplot(fig)
 
             with tab3:
                 st.subheader("📉 Cluster Distribution")
@@ -77,6 +104,16 @@ if uploaded_data:
                        autopct="%1.1f%%", startangle=90)
                 ax.axis("equal")
                 st.pyplot(fig)
+                
+                st.markdown("#### 🔍 Pairwise Feature Comparison")
+                selected_x = st.selectbox("X-axis", options=numeric_cols, index=0)
+                selected_y = st.selectbox("Y-axis", options=numeric_cols, index=1)
+                import seaborn as sns
+                
+                fig2, ax2 = plt.subplots()
+                sns.scatterplot(data=df, x=selected_x, y=selected_y, hue="Cluster", palette="tab10", ax=ax2)
+                ax2.set_title(f"{selected_y} vs {selected_x} by Cluster")
+                st.pyplot(fig2)
 
             with tab4:
                 st.subheader("🧠 Segment Logic (Assumed Interpretation)")
