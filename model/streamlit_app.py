@@ -57,6 +57,13 @@ if uploaded_data:
             with tab1:
                 st.subheader("📁 Uploaded Customer Data with Cluster Labels")
                 st.dataframe(df)
+                # 💾 Add download button
+                csv_clustered = df.to_csv(index=False).encode("utf-8")
+                st.download_button(
+                label="📥 Download Clustered Data as CSV",
+                data=csv_clustered,
+                file_name="clustered_customers.csv",
+                mime="text/csv")
 
             with tab2:
                 st.subheader("📊 Cluster-Wise Summary")
