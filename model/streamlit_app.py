@@ -4,8 +4,8 @@ import joblib
 import numpy as np
 
 # Load model and preprocessor
-model = joblib.load("customer_segment_model.joblib")
-preprocessor = joblib.load("scaler.joblib")
+model = joblib.load("model/customer_segment_model.joblib")
+preprocessor = joblib.load("model/scaler.joblib")
 
 st.title("🧠 Customer Segmentation Predictor")
 
