@@ -8,7 +8,7 @@ model = joblib.load("model/customer_segment_model.joblib")
 preprocessor = joblib.load("model/scaler.joblib")
 
 # Load training data for summary/visualization
-df_train = pd.read_csv("customer_data.csv").drop(columns=["CustomerID", "Last_Purchase_Date"])
+df_train = pd.read_csv("dataset/customer_data.csv").drop(columns=["CustomerID", "Last_Purchase_Date"])
 df_train["Cluster"] = model.predict(preprocessor.transform(df_train))
 
 st.set_page_config(page_title="Customer Segmentation", layout="wide")
