@@ -1,0 +1,501 @@
+Gender,Age,Annual_Income,Spending_Score,Purchase_Frequency,Total_Spending,Marital_Status,Family_Size,Interested_Categories,Cluster
+Other,56,35795,93,15,7907.06,Widowed,5,"Books, Gaming, Groceries",2
+Other,36,148214,75,11,3670.23,Widowed,3,"Groceries, Gaming",0
+Female,19,79735,30,6,9926.01,Widowed,1,"Home Decor, Books",2
+Male,39,91932,89,17,4298.68,Divorced,4,"Groceries, Books, Fitness",1
+Other,64,55773,51,12,9840.69,Widowed,1,"Fitness, Home Decor, Electronics",2
+Other,54,23890,7,21,1117.99,Single,4,Fitness,3
+Male,31,93969,9,26,2693.49,Married,4,"Books, Fitness, Travel",3
+Male,24,68555,8,15,9138.54,Widowed,4,"Gaming, Fitness",2
+Male,57,109475,2,6,5693.75,Divorced,5,"Electronics, Fitness, Home Decor",0
+Male,35,92409,44,2,9000.86,Married,4,Fashion,2
+Female,57,109812,80,13,5627.08,Widowed,2,Fitness,0
+Other,62,125512,29,15,1208.23,Widowed,1,Gaming,0
+Female,61,22695,88,11,7257.75,Married,3,Groceries,2
+Male,22,23561,41,28,8575.37,Divorced,4,"Travel, Electronics",2
+Female,50,109135,23,24,7431.26,Single,3,"Gaming, Travel, Fitness",1
+Female,18,118018,47,14,7727.46,Married,2,"Home Decor, Travel, Gaming",1
+Female,31,110982,27,9,4561.64,Widowed,2,Groceries,0
+Other,68,134238,96,7,3486.38,Widowed,4,"Electronics, Gaming",0
+Female,54,125878,15,11,2673.58,Single,3,"Gaming, Electronics, Books",0
+Other,39,42299,66,10,3308.52,Divorced,5,"Groceries, Fashion",2
+Female,45,115259,44,20,8891.16,Single,2,"Books, Electronics, Travel",1
+Other,45,41976,62,1,4557.52,Single,4,Travel,2
+Other,58,29474,70,8,5105.88,Widowed,1,"Groceries, Gaming, Home Decor",2
+Other,59,147659,24,15,3570.43,Divorced,1,Gaming,0
+Male,66,59353,52,12,5223.86,Single,1,Gaming,2
+Female,66,145879,81,27,9777.84,Widowed,4,"Electronics, Books",1
+Other,40,110084,96,1,1876.5,Single,4,"Fashion, Travel",0
+Male,49,46309,32,23,1268.11,Single,3,Home Decor,3
+Male,55,87863,69,20,6518.53,Single,3,"Groceries, Fitness, Travel",1
+Other,65,42671,97,9,5327.89,Divorced,5,"Gaming, Travel, Groceries",2
+Other,37,22811,59,4,5364.88,Divorced,3,"Home Decor, Fashion, Books",2
+Male,69,28680,33,8,5418.64,Widowed,1,"Travel, Gaming, Groceries",2
+Male,45,93656,89,18,5643.76,Single,2,"Books, Fitness, Electronics",1
+Male,24,66843,16,26,5774.41,Divorced,4,Electronics,3
+Other,19,51616,48,12,8885.05,Married,1,Groceries,2
+Male,52,62642,48,16,8635.08,Widowed,1,"Groceries, Home Decor, Gaming",2
+Female,66,52711,36,6,6261.08,Single,3,"Gaming, Electronics",2
+Female,42,102018,25,29,5113.33,Widowed,3,Gaming,3
+Male,58,114179,33,4,5191.99,Married,4,"Home Decor, Gaming, Electronics",0
+Male,20,106416,33,16,2817.9,Divorced,5,"Gaming, Fitness, Books",3
+Other,25,39738,27,2,5275.05,Married,4,"Fitness, Books, Electronics",2
+Male,50,114660,61,16,5934.04,Single,1,Home Decor,1
+Male,61,144123,30,29,9191.21,Widowed,3,Electronics,1
+Male,54,38711,93,17,9683.22,Divorced,3,Home Decor,2
+Male,69,85726,85,23,3510.76,Single,2,Electronics,3
+Male,59,140542,54,26,5915.58,Widowed,2,"Fashion, Gaming, Home Decor",1
+Male,39,38070,66,27,8562.36,Widowed,1,"Groceries, Travel, Fashion",2
+Other,65,125510,93,10,4487.92,Divorced,2,Groceries,0
+Other,41,28716,60,26,6465.0,Widowed,4,Fitness,3
+Female,25,26655,16,14,4068.04,Divorced,2,"Electronics, Travel, Books",2
+Other,39,138834,25,26,9827.49,Widowed,2,"Fitness, Books",1
+Male,39,51024,52,10,3381.02,Widowed,3,Groceries,2
+Male,50,100135,53,28,6417.46,Single,4,"Gaming, Fitness",3
+Male,62,78335,94,15,6555.58,Widowed,4,Electronics,1
+Female,67,37019,30,19,4288.8,Married,3,"Fitness, Books",3
+Other,43,110852,90,21,8441.81,Widowed,1,Books,1
+Male,18,86617,1,15,2777.98,Widowed,1,Travel,0
+Female,18,23343,61,7,5766.36,Divorced,5,"Electronics, Home Decor, Groceries",2
+Female,20,105067,26,16,636.74,Widowed,4,Fashion,0
+Female,64,98832,94,14,663.03,Divorced,2,Fitness,0
+Male,56,111747,33,5,956.56,Single,5,"Fashion, Gaming",0
+Female,69,60158,10,26,5279.79,Widowed,1,Groceries,3
+Other,62,24611,16,24,6602.98,Widowed,1,"Gaming, Groceries, Books",3
+Male,37,38071,12,18,6611.24,Married,1,Books,2
+Other,68,113610,12,3,9631.31,Divorced,2,"Home Decor, Gaming, Fitness",0
+Other,61,40764,13,12,4083.96,Widowed,5,"Groceries, Home Decor, Books",3
+Male,67,120386,87,17,3530.27,Single,2,"Travel, Groceries",0
+Male,43,96797,34,19,5212.36,Divorced,2,Electronics,1
+Other,67,46092,75,29,8133.07,Divorced,1,"Books, Fashion",3
+Other,54,38888,24,3,7450.65,Widowed,4,"Electronics, Home Decor",2
+Female,66,85510,96,24,9342.19,Widowed,5,Groceries,1
+Male,30,63286,89,3,4088.42,Single,1,"Books, Fashion",2
+Female,37,66959,89,22,1449.86,Widowed,4,Electronics,3
+Male,58,44466,76,9,9525.59,Married,4,"Travel, Fashion, Gaming",2
+Other,64,28335,69,3,5760.18,Single,5,Electronics,2
+Other,40,86703,57,7,9343.83,Single,2,"Fitness, Gaming, Books",2
+Male,31,146174,5,3,5686.2,Widowed,3,"Home Decor, Gaming",0
+Female,64,92267,9,10,8465.57,Widowed,5,"Books, Fashion",1
+Female,26,113105,27,26,1272.81,Widowed,5,"Travel, Gaming",3
+Other,36,48295,65,22,9498.86,Married,1,Fashion,2
+Female,21,144707,70,28,7882.9,Widowed,3,"Fitness, Groceries",1
+Male,43,113714,39,3,607.86,Widowed,4,"Books, Electronics",0
+Male,37,75771,72,29,7570.01,Divorced,3,Travel,1
+Female,45,81629,63,28,5519.52,Widowed,5,"Travel, Fashion",3
+Other,61,131276,32,13,3565.52,Widowed,5,"Fashion, Gaming, Electronics",0
+Other,54,148675,99,19,1216.63,Widowed,1,Travel,0
+Other,31,148142,31,1,6050.99,Divorced,1,"Electronics, Books, Fashion",0
+Female,29,119657,96,16,4828.74,Married,4,Fitness,1
+Female,25,29337,92,4,4188.55,Married,4,"Gaming, Travel",2
+Male,45,47355,41,4,4805.79,Widowed,1,Groceries,2
+Other,50,75284,84,13,3074.1,Single,5,"Fashion, Home Decor",3
+Male,52,138012,6,18,6021.04,Widowed,1,"Fitness, Books",1
+Female,27,104791,30,18,929.58,Divorced,1,"Books, Fitness",0
+Female,18,120497,96,15,4079.02,Married,2,"Home Decor, Travel, Books",1
+Other,42,40309,59,27,8464.12,Married,2,Fitness,2
+Other,52,28702,1,21,8714.86,Married,1,Electronics,2
+Male,48,29860,3,21,7805.38,Single,5,"Electronics, Home Decor",3
+Male,27,73330,17,21,2447.93,Married,1,"Fitness, Books, Home Decor",3
+Other,62,37100,4,1,945.52,Widowed,2,"Home Decor, Fashion",0
+Female,51,81877,3,27,8595.72,Divorced,4,Groceries,3
+Female,47,44285,57,17,5060.44,Single,5,Books,3
+Other,31,57441,75,19,1795.53,Married,4,"Groceries, Gaming",3
+Male,55,127825,98,18,5770.75,Married,3,"Fitness, Electronics, Books",1
+Female,51,103251,38,1,4267.16,Single,2,"Fitness, Gaming, Travel",0
+Female,34,136868,29,4,9302.58,Widowed,2,Fitness,1
+Male,37,145911,69,2,5179.87,Widowed,5,"Fashion, Electronics",0
+Other,60,147018,75,19,1724.36,Single,3,"Gaming, Books",0
+Female,33,44071,4,8,4410.78,Divorced,3,"Fashion, Groceries, Travel",2
+Other,46,135359,50,29,2626.57,Married,5,Gaming,3
+Female,35,131195,42,29,1342.67,Single,1,Gaming,3
+Other,58,36907,90,14,1723.11,Married,2,Fitness,3
+Female,44,43624,26,25,6465.05,Divorced,3,"Home Decor, Gaming, Travel",3
+Female,65,72796,81,26,8158.91,Married,1,"Fitness, Groceries, Gaming",1
+Male,69,145646,47,24,2743.11,Single,4,"Fashion, Gaming, Electronics",3
+Female,31,64247,2,13,848.49,Divorced,3,"Gaming, Fitness, Books",0
+Female,20,38030,23,14,5555.08,Widowed,5,"Gaming, Electronics",2
+Male,55,125186,15,25,4084.2,Divorced,2,"Travel, Fashion, Groceries",3
+Female,34,115462,86,26,1637.74,Married,1,Fashion,3
+Male,37,26168,68,10,6663.82,Widowed,2,"Fashion, Books, Home Decor",2
+Female,53,138894,86,2,7581.68,Married,1,"Travel, Groceries, Fashion",0
+Female,59,120776,6,20,6271.77,Single,3,"Books, Fashion, Electronics",1
+Male,62,132581,33,21,2640.66,Widowed,4,"Groceries, Travel",3
+Other,28,138205,62,24,8501.98,Divorced,3,"Gaming, Travel, Groceries",1
+Male,48,135751,36,24,9017.8,Single,4,"Travel, Fashion, Electronics",1
+Female,21,107886,6,22,2123.43,Single,3,"Travel, Electronics",3
+Female,19,20846,75,8,3159.8,Married,4,Travel,2
+Male,23,50105,68,19,5322.3,Married,1,"Fitness, Home Decor, Books",2
+Female,18,124537,14,6,5307.99,Widowed,4,Home Decor,0
+Male,60,67362,33,6,4815.55,Single,5,"Electronics, Travel, Fashion",2
+Female,27,22219,2,13,8193.81,Divorced,1,"Fitness, Electronics, Groceries",2
+Female,54,128872,17,9,4412.49,Single,1,Home Decor,0
+Other,61,62929,78,21,2447.52,Married,3,"Books, Home Decor, Gaming",3
+Male,18,25415,64,22,8497.37,Divorced,3,Groceries,2
+Female,54,141101,60,3,2270.85,Married,3,"Groceries, Gaming, Fitness",0
+Other,31,125881,62,4,8833.41,Single,1,"Travel, Fitness",1
+Other,57,79207,39,8,9046.84,Single,5,"Books, Electronics",2
+Other,50,107062,63,15,3875.94,Widowed,2,"Gaming, Fashion",0
+Male,57,112263,51,7,9428.41,Married,3,"Electronics, Fashion",1
+Other,69,100910,29,1,5944.93,Divorced,5,"Home Decor, Gaming",0
+Other,50,64028,27,23,818.56,Widowed,2,"Gaming, Electronics",3
+Male,22,132250,74,1,8301.94,Divorced,4,Groceries,1
+Other,41,84435,56,15,5628.68,Single,5,"Electronics, Groceries, Travel",3
+Female,21,121195,45,2,6185.21,Married,4,"Home Decor, Fashion",0
+Female,60,120420,20,11,9130.28,Single,2,"Home Decor, Groceries",1
+Other,60,22443,90,13,5305.94,Single,1,Travel,2
+Other,64,111751,60,11,9228.13,Single,5,Groceries,1
+Male,25,20126,92,26,7496.22,Single,1,"Gaming, Fashion",2
+Male,28,33718,1,14,9855.99,Single,4,"Books, Electronics",2
+Female,40,39256,1,22,2660.26,Single,5,"Fitness, Electronics, Travel",3
+Other,26,95060,9,10,544.0,Married,1,"Groceries, Travel, Fashion",0
+Male,69,69688,90,11,3790.29,Widowed,2,"Electronics, Travel, Gaming",0
+Female,51,141178,17,11,9171.12,Married,1,"Home Decor, Electronics, Travel",1
+Female,69,65765,88,1,7914.71,Single,3,"Fitness, Fashion",2
+Male,43,30395,85,17,9630.17,Married,1,"Fashion, Groceries",2
+Male,39,116731,63,29,5270.85,Married,1,Fashion,1
+Other,47,112374,51,27,3819.18,Single,5,Groceries,3
+Female,62,62460,30,16,1124.23,Married,3,"Fitness, Home Decor, Gaming",3
+Female,67,48865,92,17,5221.61,Married,3,"Electronics, Fitness, Books",2
+Female,21,75168,8,29,9488.1,Divorced,2,"Electronics, Home Decor",1
+Male,36,95629,34,28,9799.85,Widowed,2,"Gaming, Books, Electronics",1
+Male,46,129575,65,25,2911.94,Widowed,3,"Fitness, Groceries, Fashion",3
+Male,25,76373,67,19,5788.86,Divorced,2,"Travel, Books, Fashion",1
+Other,49,107127,78,24,8387.09,Married,4,Fitness,1
+Male,38,106925,95,23,6515.79,Divorced,1,"Books, Gaming, Fitness",1
+Other,38,73394,19,4,4503.53,Married,2,Travel,0
+Male,64,43236,20,11,8338.52,Married,3,"Home Decor, Fitness, Electronics",2
+Other,29,136243,5,5,5744.45,Widowed,2,Home Decor,0
+Male,61,140674,86,12,1585.26,Married,3,"Books, Fashion",0
+Male,40,106143,96,17,5368.35,Married,1,"Books, Home Decor",1
+Other,62,119608,73,22,8431.84,Divorced,4,"Gaming, Groceries",1
+Other,46,96908,98,23,674.71,Single,2,Home Decor,3
+Male,59,58243,41,6,5764.69,Divorced,1,"Home Decor, Books",2
+Male,29,21622,86,21,9050.18,Married,3,"Home Decor, Gaming",2
+Female,29,66828,53,7,8462.02,Single,5,"Fitness, Groceries",2
+Female,63,148575,2,28,7511.32,Divorced,3,Groceries,1
+Female,53,107410,26,29,8452.25,Widowed,3,Gaming,1
+Female,56,116999,99,22,4268.17,Divorced,5,Books,1
+Female,53,94478,20,19,8494.53,Divorced,1,"Electronics, Fitness",1
+Female,62,58890,98,9,5005.25,Single,1,Electronics,2
+Other,57,57904,1,25,7039.82,Married,2,Groceries,3
+Other,56,44354,3,18,522.22,Single,3,"Gaming, Groceries",3
+Male,55,108929,12,19,1370.03,Widowed,3,Electronics,3
+Female,34,69481,57,23,1323.7,Widowed,3,"Gaming, Home Decor, Books",3
+Male,38,31344,87,5,9815.48,Married,2,Gaming,2
+Male,29,97454,59,26,874.55,Widowed,2,"Travel, Fashion, Books",3
+Other,34,32182,26,21,9197.14,Widowed,5,"Books, Electronics, Fitness",2
+Other,26,31122,48,8,9470.53,Divorced,2,"Electronics, Home Decor, Fashion",2
+Male,47,71571,39,3,851.57,Divorced,3,Gaming,0
+Other,51,102050,37,11,4342.61,Single,1,Fashion,0
+Male,39,135608,13,18,8916.79,Divorced,2,"Home Decor, Fashion",1
+Male,19,94038,99,10,702.06,Single,5,Fashion,0
+Female,35,68543,96,3,590.11,Married,5,"Books, Fashion",0
+Male,66,81916,62,21,6461.3,Widowed,4,"Travel, Fitness, Books",3
+Female,27,125373,25,7,7507.03,Widowed,1,"Home Decor, Travel, Books",0
+Other,62,53933,30,18,7297.76,Widowed,5,Groceries,3
+Male,65,110816,53,14,1539.94,Divorced,1,"Travel, Fitness, Groceries",0
+Other,54,144988,43,28,9832.14,Married,3,"Travel, Fitness",1
+Other,30,100097,25,7,1117.37,Divorced,4,Travel,0
+Male,68,121868,74,11,4148.86,Single,1,Fashion,0
+Other,20,34199,6,5,6482.89,Married,1,Home Decor,2
+Male,52,82483,61,27,5166.27,Divorced,1,"Fitness, Fashion, Groceries",3
+Other,49,27906,13,24,6132.93,Divorced,5,"Gaming, Fitness",3
+Female,28,103560,56,3,1730.39,Single,1,"Travel, Books, Fitness",0
+Other,42,108801,76,10,3625.99,Single,1,Gaming,0
+Female,28,70106,98,24,4040.54,Divorced,3,Books,3
+Other,65,132217,18,6,2591.74,Married,5,Books,0
+Female,30,65648,40,13,5402.75,Divorced,3,"Travel, Electronics",2
+Female,20,21591,40,2,5874.45,Widowed,5,Fitness,2
+Female,23,106231,19,16,2830.21,Divorced,3,"Fashion, Groceries, Travel",0
+Other,65,103624,13,11,7125.98,Widowed,2,"Home Decor, Fashion, Groceries",0
+Male,44,22469,60,7,8868.27,Married,2,Fitness,2
+Female,68,74302,23,10,3683.63,Divorced,2,"Travel, Home Decor",0
+Other,31,77932,93,12,2334.76,Widowed,5,"Books, Electronics",3
+Male,44,86672,17,8,4078.61,Married,5,"Fashion, Groceries, Fitness",0
+Other,65,90981,83,7,4606.29,Single,2,"Books, Gaming, Fitness",0
+Female,45,118875,79,5,9403.67,Divorced,4,"Travel, Home Decor",1
+Other,21,147706,64,17,1139.83,Married,2,"Travel, Books",0
+Male,18,142901,90,24,8779.6,Divorced,5,"Fashion, Books, Fitness",1
+Male,52,41427,76,7,710.17,Widowed,3,"Fitness, Gaming, Electronics",0
+Female,40,64569,98,14,9972.68,Divorced,1,"Groceries, Books, Gaming",2
+Male,30,117768,39,15,7089.98,Single,4,"Fitness, Electronics",1
+Male,64,98797,84,22,8746.52,Divorced,4,Electronics,1
+Other,38,59214,80,5,4277.15,Married,1,Home Decor,2
+Female,20,25626,1,26,7585.45,Single,3,Electronics,2
+Female,42,102711,12,18,4979.56,Married,3,"Electronics, Travel",3
+Female,42,25776,93,21,7823.76,Widowed,2,"Travel, Fashion, Fitness",2
+Other,20,81788,64,12,9162.44,Widowed,2,"Electronics, Fashion, Groceries",2
+Female,37,142413,15,25,1614.43,Widowed,1,"Books, Home Decor",0
+Female,61,71027,100,9,2642.63,Married,4,"Travel, Home Decor, Fashion",0
+Male,39,25109,2,24,3448.44,Divorced,5,Groceries,3
+Female,25,146740,18,18,7357.93,Divorced,3,Books,1
+Female,42,84288,41,8,5064.82,Single,1,Books,0
+Female,29,145816,46,15,5082.39,Single,4,Home Decor,1
+Female,27,94663,32,18,5418.26,Divorced,1,Groceries,1
+Other,30,103869,33,13,3899.11,Widowed,2,"Gaming, Electronics",0
+Other,56,118393,46,26,2401.43,Widowed,4,Books,3
+Other,57,91626,61,3,800.07,Married,1,"Home Decor, Gaming, Electronics",0
+Male,48,46015,41,18,8774.21,Divorced,2,"Travel, Home Decor",2
+Other,37,33629,7,11,5753.51,Divorced,2,"Fitness, Travel",2
+Male,43,53662,3,9,7450.1,Widowed,3,"Gaming, Groceries",2
+Other,29,30326,12,13,8781.94,Single,2,"Fitness, Home Decor, Travel",2
+Female,63,72579,45,8,8002.14,Married,3,"Fitness, Books",2
+Male,23,125361,83,22,9965.17,Married,1,"Travel, Home Decor, Gaming",1
+Female,20,80315,74,19,2595.33,Divorced,1,"Home Decor, Travel, Electronics",0
+Male,29,146768,94,21,4451.12,Divorced,4,Home Decor,1
+Other,21,145659,20,28,5661.35,Married,3,Travel,1
+Male,53,45849,98,4,6178.37,Single,4,"Electronics, Fitness",2
+Female,56,32201,58,22,2501.29,Married,5,"Home Decor, Electronics",3
+Female,57,149044,15,1,7872.0,Widowed,4,"Electronics, Gaming",0
+Other,40,31561,44,14,5369.84,Widowed,5,Fitness,2
+Other,55,145932,41,22,4347.7,Divorced,1,"Fashion, Books",0
+Other,56,65893,17,27,9709.42,Married,2,"Gaming, Fashion, Books",1
+Female,54,139044,65,8,9713.3,Widowed,3,"Electronics, Fitness",1
+Male,20,53397,14,16,3701.53,Widowed,1,Electronics,2
+Other,22,133939,8,11,2899.01,Divorced,4,Home Decor,0
+Male,60,75204,47,5,5008.99,Married,1,"Fashion, Groceries, Fitness",0
+Other,32,38309,61,20,1042.33,Married,5,"Fashion, Electronics",3
+Female,46,100896,35,6,1341.28,Divorced,1,Fashion,0
+Male,68,53997,12,10,9872.99,Married,3,"Fitness, Groceries, Gaming",2
+Female,51,65272,50,29,6011.07,Single,3,"Electronics, Groceries",3
+Female,40,125899,38,20,784.75,Widowed,5,"Books, Fashion",3
+Other,59,102811,8,18,1392.06,Married,5,"Gaming, Electronics",3
+Male,22,144398,86,15,6785.51,Single,2,"Travel, Books, Electronics",1
+Female,27,146365,82,17,8754.6,Divorced,1,"Fitness, Gaming, Home Decor",1
+Other,25,57208,46,4,6205.79,Married,5,Fitness,2
+Other,58,130169,62,28,958.01,Widowed,1,Electronics,3
+Other,58,107128,48,13,1359.58,Married,1,"Fitness, Travel, Fashion",0
+Male,21,146561,4,6,8174.54,Married,2,Travel,1
+Male,58,133942,83,13,4068.89,Divorced,1,Gaming,0
+Female,32,109152,76,26,5852.67,Married,3,Home Decor,1
+Male,42,103360,49,17,2659.06,Single,2,"Fitness, Fashion, Travel",0
+Male,52,96743,78,10,4107.96,Widowed,2,"Fashion, Home Decor",0
+Male,23,112059,93,26,4111.86,Divorced,2,Fashion,1
+Female,32,31563,100,15,7766.39,Divorced,2,"Home Decor, Electronics, Fashion",2
+Female,60,78348,21,23,571.85,Single,5,"Gaming, Travel, Books",3
+Male,42,148803,75,19,2372.96,Single,5,"Home Decor, Books",1
+Other,36,66881,78,29,6865.91,Widowed,5,"Gaming, Travel, Groceries",3
+Male,45,51010,8,16,6298.17,Divorced,2,"Groceries, Electronics",2
+Male,66,63596,4,26,5463.57,Married,4,"Books, Travel",3
+Female,56,92588,31,7,8037.37,Married,5,"Fashion, Groceries",2
+Female,53,139891,68,22,8249.61,Widowed,4,Home Decor,1
+Female,59,149582,13,23,5394.16,Widowed,4,Home Decor,1
+Female,43,57384,15,10,8478.68,Married,1,"Home Decor, Electronics",2
+Other,44,54084,68,18,8314.84,Single,4,"Home Decor, Gaming, Electronics",2
+Male,27,108920,18,19,1922.19,Divorced,2,Travel,0
+Other,64,46160,99,12,4992.47,Widowed,5,Fashion,2
+Female,39,97231,37,15,6560.63,Divorced,1,"Fashion, Fitness",1
+Male,30,124956,57,25,3108.13,Divorced,5,"Home Decor, Electronics",3
+Other,20,144457,39,9,650.3,Divorced,4,"Fashion, Electronics",0
+Male,36,58467,90,6,9102.49,Married,5,"Gaming, Electronics",2
+Male,53,131335,97,4,3572.03,Single,3,"Books, Fashion",0
+Other,58,145926,68,13,8402.7,Widowed,4,Gaming,1
+Male,61,56378,32,21,8860.75,Single,2,"Home Decor, Electronics, Groceries",2
+Male,61,120732,58,3,6860.13,Widowed,4,"Travel, Books",0
+Female,55,78576,35,2,3668.91,Married,4,"Fitness, Books",0
+Male,53,133092,77,29,7670.96,Widowed,2,"Groceries, Fashion",1
+Female,47,118936,55,16,3801.93,Single,4,"Fitness, Gaming, Electronics",0
+Other,33,101437,23,28,1947.95,Single,5,Gaming,3
+Other,47,118452,84,6,8714.52,Single,5,"Gaming, Books",1
+Female,69,39169,14,4,2999.57,Single,2,Fashion,0
+Other,38,55585,91,25,8340.22,Divorced,2,"Fashion, Books",2
+Female,23,103362,22,11,9925.5,Widowed,5,"Groceries, Travel",1
+Male,29,117518,49,10,8265.77,Divorced,3,"Fitness, Groceries",1
+Male,41,65033,30,14,1842.14,Married,4,"Home Decor, Gaming",3
+Female,26,98222,21,3,1961.02,Divorced,3,"Groceries, Books",0
+Other,31,124211,82,10,5964.05,Married,5,"Electronics, Gaming",1
+Other,50,138947,95,14,6259.4,Divorced,5,"Fashion, Home Decor, Books",1
+Other,52,71112,6,25,3991.58,Divorced,5,"Fashion, Groceries",3
+Male,21,36920,79,4,5720.53,Divorced,4,Books,2
+Female,48,53613,20,18,8588.76,Widowed,5,"Books, Fashion, Home Decor",2
+Other,19,123483,23,19,1082.82,Widowed,3,"Fitness, Fashion",0
+Female,27,124792,2,11,1048.92,Married,1,"Electronics, Home Decor, Groceries",0
+Male,36,64936,99,21,7935.61,Divorced,3,"Books, Home Decor, Fashion",1
+Male,33,143279,97,4,9968.62,Married,1,Fitness,1
+Male,56,54171,52,29,6729.37,Divorced,2,"Home Decor, Fitness, Books",3
+Other,54,52371,63,29,5492.29,Single,5,Books,3
+Female,39,89252,55,2,5072.77,Widowed,5,"Electronics, Books",0
+Male,40,126297,39,5,3573.25,Divorced,2,"Fashion, Home Decor",0
+Male,62,76532,53,18,905.02,Married,1,"Books, Travel, Fashion",0
+Female,66,90331,11,21,3027.18,Married,5,"Travel, Fitness",3
+Male,21,45121,52,16,6691.25,Married,3,Electronics,2
+Other,46,46035,29,6,7957.66,Single,5,Books,2
+Female,58,50911,17,24,8184.39,Widowed,5,Groceries,3
+Male,27,110353,58,28,4884.04,Married,3,"Groceries, Home Decor, Books",1
+Female,51,135463,59,22,2656.16,Widowed,1,"Fitness, Groceries, Home Decor",0
+Male,41,76492,83,5,6962.16,Married,5,Travel,2
+Male,40,83530,1,13,837.92,Married,4,Groceries,3
+Male,57,64857,31,14,3822.18,Divorced,3,"Fashion, Gaming, Travel",3
+Other,68,84027,51,11,5721.35,Divorced,2,"Groceries, Travel",0
+Male,64,98815,92,17,7933.61,Divorced,1,Fashion,1
+Other,19,116718,50,3,2926.43,Widowed,4,"Fashion, Travel",0
+Other,58,79560,89,26,898.54,Married,2,"Electronics, Travel",3
+Female,38,105667,12,27,6217.88,Divorced,5,"Gaming, Groceries, Books",3
+Female,33,29503,32,28,1716.91,Single,1,"Fitness, Books",3
+Female,26,42168,59,14,4192.2,Widowed,2,"Books, Groceries",2
+Other,69,22461,84,21,2375.97,Widowed,1,Travel,3
+Male,52,50841,32,23,8541.89,Widowed,1,"Home Decor, Fitness, Gaming",2
+Male,35,120500,13,21,8498.99,Married,4,"Electronics, Travel, Fitness",1
+Female,39,78005,89,22,910.15,Divorced,2,"Books, Gaming",3
+Male,46,130804,79,20,9668.73,Widowed,3,"Electronics, Groceries, Fashion",1
+Female,41,49739,77,22,7702.76,Single,1,"Books, Gaming, Home Decor",2
+Other,36,101942,29,7,6544.77,Single,5,"Groceries, Gaming, Travel",2
+Other,25,61321,58,16,2843.45,Single,5,"Travel, Fashion, Books",3
+Other,18,58787,99,10,2438.34,Divorced,2,Books,2
+Other,63,100102,91,27,3876.15,Single,5,Fitness,3
+Male,69,104899,86,10,8479.66,Single,4,Fashion,1
+Female,31,135725,34,21,3605.85,Widowed,3,"Groceries, Electronics, Gaming",1
+Male,23,32087,83,5,3998.94,Widowed,5,"Groceries, Travel",2
+Female,41,86549,99,26,6798.9,Widowed,5,"Fitness, Gaming",1
+Female,55,84429,4,28,4182.9,Single,1,"Fashion, Books, Gaming",3
+Male,24,88099,93,14,1116.11,Single,2,"Electronics, Home Decor, Gaming",0
+Other,69,113059,24,2,8147.4,Married,4,"Gaming, Groceries, Travel",0
+Other,66,88926,83,22,3675.26,Single,2,"Home Decor, Gaming",3
+Male,48,135555,64,19,1900.8,Single,1,"Books, Groceries, Fitness",0
+Female,50,53937,63,20,6183.14,Married,3,"Fashion, Fitness, Gaming",2
+Female,28,36184,45,1,6543.68,Widowed,3,"Books, Gaming, Fashion",2
+Other,23,50254,78,28,7529.87,Widowed,2,Home Decor,2
+Female,69,115804,10,18,748.87,Single,1,"Gaming, Electronics",0
+Female,62,55525,81,27,9436.45,Widowed,2,"Books, Home Decor, Fashion",1
+Male,63,90553,69,29,2267.96,Single,1,Books,3
+Female,27,45279,5,4,6496.12,Divorced,2,"Groceries, Gaming, Home Decor",2
+Female,18,22839,57,4,1044.16,Divorced,4,Fashion,2
+Female,48,87155,24,25,627.32,Widowed,4,"Gaming, Travel",3
+Other,47,29557,92,7,3118.32,Married,2,"Electronics, Fashion",2
+Female,48,29833,89,13,1120.98,Divorced,5,"Travel, Fashion, Books",3
+Other,37,60785,57,21,3494.3,Divorced,3,"Gaming, Books, Electronics",3
+Other,23,116894,15,18,6806.0,Married,4,"Fitness, Home Decor, Books",1
+Female,65,124646,21,10,4478.54,Widowed,1,Fitness,0
+Female,38,148081,69,3,2381.93,Divorced,1,"Books, Fashion, Electronics",0
+Male,68,107896,85,12,1936.84,Married,4,"Fashion, Home Decor, Fitness",0
+Male,59,35352,71,22,5472.21,Married,5,Home Decor,3
+Male,51,91707,58,11,8021.15,Divorced,1,Groceries,1
+Other,51,147941,70,2,4571.99,Single,5,"Groceries, Electronics",0
+Male,39,131672,66,10,8688.88,Widowed,3,Books,1
+Male,56,113269,76,24,8160.83,Widowed,2,"Home Decor, Books, Gaming",1
+Female,68,120158,49,7,2064.71,Married,4,"Travel, Fitness",0
+Female,69,50933,15,24,8839.39,Single,4,"Books, Home Decor",3
+Other,44,76700,40,26,7834.12,Married,2,Fashion,1
+Other,20,62951,44,1,5229.22,Married,4,"Home Decor, Groceries, Gaming",2
+Female,42,71578,50,11,9662.53,Single,4,"Electronics, Gaming",2
+Other,25,142775,92,9,3126.2,Divorced,1,"Home Decor, Gaming, Fashion",0
+Male,32,107983,82,10,7111.04,Divorced,4,"Groceries, Travel",1
+Other,24,57711,3,13,9023.27,Divorced,3,"Gaming, Electronics",2
+Female,50,145147,1,23,8992.9,Widowed,4,"Fitness, Travel, Fashion",1
+Female,54,87843,94,6,8640.3,Divorced,1,"Electronics, Groceries, Books",2
+Female,63,130454,16,1,5110.91,Married,5,Books,0
+Other,47,139052,34,4,9807.93,Divorced,3,"Electronics, Gaming, Books",1
+Male,44,28004,25,3,778.96,Widowed,4,"Travel, Groceries",0
+Male,43,145949,5,3,3699.98,Divorced,1,"Travel, Books",0
+Male,67,20645,83,28,4863.02,Widowed,5,"Electronics, Fashion",3
+Other,39,29346,76,28,2150.74,Single,5,"Groceries, Fitness",3
+Other,50,45556,35,20,3805.44,Divorced,2,"Electronics, Fitness",3
+Male,28,125400,23,16,7511.66,Married,4,"Travel, Gaming, Groceries",1
+Female,47,60718,91,3,1699.52,Married,2,"Electronics, Fashion",0
+Other,52,94663,28,15,6725.18,Married,1,"Fashion, Fitness, Travel",0
+Other,40,110751,63,3,8730.67,Married,5,"Travel, Gaming, Groceries",1
+Male,63,28179,14,4,8170.26,Widowed,4,Fitness,2
+Male,32,30449,97,6,501.79,Married,3,"Travel, Fashion, Home Decor",2
+Female,51,35223,46,6,8713.35,Divorced,3,"Groceries, Books, Travel",2
+Male,47,91678,78,27,671.0,Single,2,"Fitness, Home Decor",3
+Female,40,73909,48,25,9741.38,Divorced,3,"Books, Gaming",1
+Other,36,44264,28,20,9646.7,Married,1,"Electronics, Fashion, Home Decor",2
+Other,36,72142,14,24,1149.24,Single,1,"Groceries, Home Decor",3
+Male,26,79711,33,24,3362.02,Single,3,Groceries,3
+Female,52,31240,59,14,6188.68,Widowed,3,"Groceries, Home Decor",2
+Other,58,126108,86,9,2260.64,Widowed,5,"Gaming, Travel",0
+Other,66,71631,30,12,3043.88,Married,2,Books,0
+Other,38,70500,48,20,6190.3,Married,1,Gaming,2
+Male,26,105436,9,4,8378.22,Married,1,Travel,2
+Other,40,52174,40,12,4912.12,Widowed,1,"Books, Groceries, Fashion",2
+Male,43,147795,93,22,9507.03,Married,4,Fitness,1
+Male,46,98002,4,23,1490.14,Married,4,Groceries,3
+Male,20,31093,66,24,4992.52,Married,1,Gaming,2
+Other,25,62070,38,6,2916.72,Divorced,1,Books,0
+Female,29,48933,90,27,2769.14,Single,2,Fitness,3
+Female,46,62604,99,8,6302.41,Married,5,Gaming,2
+Male,30,106716,49,14,8416.51,Divorced,4,Gaming,1
+Female,43,116038,85,21,5370.34,Divorced,3,"Fitness, Books",1
+Female,58,70952,88,5,6362.13,Widowed,5,"Gaming, Books, Electronics",2
+Other,56,69334,41,7,7171.46,Widowed,3,"Gaming, Home Decor, Fashion",2
+Male,30,79518,46,13,4203.79,Widowed,3,Books,2
+Male,62,129835,61,16,7325.08,Divorced,4,"Books, Electronics",1
+Male,22,57383,25,27,985.79,Single,5,"Fitness, Fashion, Groceries",3
+Male,40,23760,47,20,2938.6,Divorced,4,"Gaming, Travel",3
+Female,50,145566,36,18,6165.05,Single,4,Fashion,1
+Male,50,36715,15,9,6851.44,Widowed,1,"Home Decor, Travel",2
+Male,19,54610,75,13,5270.46,Divorced,3,"Gaming, Electronics",2
+Male,26,125848,39,28,7377.74,Divorced,3,Travel,1
+Male,19,119932,38,3,1850.3,Divorced,1,Travel,0
+Male,29,137154,65,23,4294.0,Married,5,Travel,1
+Male,66,94878,95,25,8258.87,Married,4,Home Decor,1
+Female,60,148657,36,3,3409.98,Married,2,"Fashion, Fitness",0
+Other,61,62849,32,3,8646.84,Divorced,1,"Fashion, Gaming, Fitness",2
+Male,40,102279,75,16,4026.14,Divorced,1,"Fitness, Electronics",0
+Other,53,148379,33,24,5360.97,Widowed,4,Fitness,1
+Female,24,88803,37,24,3785.84,Married,4,"Travel, Gaming, Books",3
+Female,46,137961,60,18,6161.89,Single,1,"Home Decor, Electronics",1
+Male,22,99239,34,16,6012.1,Widowed,1,"Books, Electronics, Home Decor",1
+Female,21,25744,50,5,5301.82,Single,3,Gaming,2
+Female,21,142521,27,14,4185.87,Divorced,2,"Fashion, Books, Travel",0
+Male,67,38693,59,29,3247.83,Single,5,"Electronics, Travel",3
+Female,54,91849,35,23,6227.96,Widowed,4,Gaming,3
+Other,66,45372,77,27,4200.08,Single,5,"Books, Groceries",3
+Female,21,47716,37,9,5556.45,Single,5,"Books, Fitness",2
+Other,40,70098,3,10,2963.68,Widowed,3,"Home Decor, Fashion",0
+Male,66,20340,46,12,9680.97,Single,4,"Fashion, Fitness, Travel",2
+Male,18,119931,63,24,4718.42,Divorced,2,"Groceries, Fashion, Travel",1
+Other,53,83922,17,3,3354.65,Married,1,"Travel, Groceries",0
+Female,36,97988,85,8,8599.3,Divorced,5,"Gaming, Fitness",1
+Female,36,95774,64,27,6191.65,Married,5,"Home Decor, Gaming, Fashion",1
+Male,29,96021,21,22,8045.0,Married,4,Travel,1
+Other,63,49689,12,6,9516.57,Married,2,"Electronics, Books",2
+Female,53,92805,75,1,4691.63,Divorced,3,"Books, Fashion, Groceries",0
+Male,68,56593,81,19,4372.05,Divorced,3,"Gaming, Books, Home Decor",3
+Other,64,71971,7,13,2404.51,Divorced,1,Electronics,0
+Male,34,22384,97,8,3463.04,Divorced,3,"Fitness, Electronics, Books",2
+Female,22,131628,47,14,9300.63,Married,2,"Electronics, Home Decor",1
+Female,46,25845,43,3,5508.65,Divorced,5,"Gaming, Fashion",2
+Female,58,72887,35,24,9595.76,Divorced,3,"Travel, Fashion, Books",1
+Male,67,30503,26,17,522.02,Divorced,3,Travel,3
+Male,53,52792,37,1,553.83,Divorced,5,Home Decor,0
+Female,18,40131,35,2,1341.74,Single,1,"Fashion, Books",0
+Female,63,68511,4,6,3813.8,Divorced,3,"Books, Groceries",0
+Other,30,130252,96,2,9573.59,Widowed,3,"Groceries, Gaming",1
+Male,33,90721,40,17,8047.9,Single,4,"Travel, Electronics",1
+Female,19,136185,13,24,2505.57,Married,2,"Electronics, Fashion, Books",0
+Female,20,88487,87,14,4348.48,Single,3,"Books, Home Decor",2
+Female,46,43782,53,7,5715.31,Divorced,5,Travel,2
+Male,38,142258,53,19,7716.31,Single,1,"Electronics, Gaming, Books",1
+Male,40,108607,62,10,8303.6,Divorced,4,"Groceries, Electronics",1
+Male,31,51921,28,14,8137.61,Single,4,Books,2
+Female,40,76071,82,12,2006.93,Widowed,2,"Electronics, Groceries",0
+Female,51,68766,75,9,4323.24,Married,1,"Electronics, Fitness, Fashion",0
+Female,66,109081,93,26,3123.61,Married,1,"Fashion, Gaming, Fitness",3
+Other,41,78161,8,9,9434.26,Married,5,"Fashion, Home Decor, Gaming",2
+Female,18,91274,19,9,3476.81,Married,4,"Fitness, Books",0
+Female,32,110930,13,19,4084.48,Married,4,"Fashion, Home Decor, Travel",3
+Male,54,128944,58,23,5863.98,Widowed,4,"Groceries, Gaming, Fashion",1
+Female,42,149655,55,10,2086.05,Single,5,"Groceries, Gaming, Home Decor",0
+Other,30,49796,33,24,1731.21,Divorced,4,"Fashion, Groceries, Gaming",3
+Male,42,95357,73,21,7927.33,Divorced,4,Gaming,1
+Female,59,65968,48,7,8725.29,Single,3,"Books, Electronics, Fashion",2
+Female,65,107697,78,3,527.37,Widowed,1,Books,0
+Female,35,47364,13,4,7336.71,Divorced,1,Fashion,2
+Female,55,115690,54,24,6939.23,Widowed,5,Electronics,1
+Female,51,105896,88,8,1694.38,Widowed,3,"Fitness, Travel",0
+Female,61,78283,21,28,2392.55,Single,4,Books,3
+Other,60,100098,13,25,1559.37,Divorced,2,Fashion,3
+Male,61,77134,53,10,2797.94,Widowed,2,"Books, Electronics",0
+Female,34,59779,14,10,5182.21,Married,1,"Fitness, Home Decor",2
+Female,69,44087,29,11,895.74,Single,2,"Electronics, Groceries",0
+Male,18,40307,28,16,2588.15,Married,4,"Fitness, Fashion",3
+Other,29,23866,53,10,4134.51,Divorced,1,"Gaming, Travel",2
+Male,54,101029,7,21,7844.85,Widowed,2,"Electronics, Home Decor, Books",1
+Other,69,81240,12,16,3348.11,Single,4,Fitness,3
+Male,24,76547,51,9,9036.33,Married,1,"Fashion, Books, Fitness",2
+Male,42,48151,72,13,1947.11,Widowed,3,Groceries,3
+Female,58,22204,98,2,7600.72,Married,4,"Fitness, Travel",2
+Male,21,132217,9,23,5542.0,Divorced,4,"Home Decor, Fitness",1
+Other,28,81215,28,22,2447.32,Widowed,2,"Groceries, Fitness, Home Decor",3

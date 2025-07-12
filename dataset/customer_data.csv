@@ -1,0 +1,501 @@
+CustomerID,Gender,Age,Annual_Income,Spending_Score,Purchase_Frequency,Last_Purchase_Date,Total_Spending,Marital_Status,Family_Size,Interested_Categories
+1,Other,56,35795,93,15,2025-03-27,7907.06,Widowed,5,"Books, Gaming, Groceries"
+2,Other,36,148214,75,11,2025-04-15,3670.23,Widowed,3,"Groceries, Gaming"
+3,Female,19,79735,30,6,2025-01-01,9926.01,Widowed,1,"Home Decor, Books"
+4,Male,39,91932,89,17,2025-05-14,4298.68,Divorced,4,"Groceries, Books, Fitness"
+5,Other,64,55773,51,12,2025-05-18,9840.69,Widowed,1,"Fitness, Home Decor, Electronics"
+6,Other,54,23890,7,21,2024-08-17,1117.99,Single,4,Fitness
+7,Male,31,93969,9,26,2025-05-20,2693.49,Married,4,"Books, Fitness, Travel"
+8,Male,24,68555,8,15,2025-06-07,9138.54,Widowed,4,"Gaming, Fitness"
+9,Male,57,109475,2,6,2025-05-19,5693.75,Divorced,5,"Electronics, Fitness, Home Decor"
+10,Male,35,92409,44,2,2024-12-22,9000.86,Married,4,Fashion
+11,Female,57,109812,80,13,2024-08-08,5627.08,Widowed,2,Fitness
+12,Other,62,125512,29,15,2024-09-14,1208.23,Widowed,1,Gaming
+13,Female,61,22695,88,11,2025-04-22,7257.75,Married,3,Groceries
+14,Male,22,23561,41,28,2025-02-27,8575.37,Divorced,4,"Travel, Electronics"
+15,Female,50,109135,23,24,2024-09-22,7431.26,Single,3,"Gaming, Travel, Fitness"
+16,Female,18,118018,47,14,2025-03-03,7727.46,Married,2,"Home Decor, Travel, Gaming"
+17,Female,31,110982,27,9,2024-12-17,4561.64,Widowed,2,Groceries
+18,Other,68,134238,96,7,2024-11-13,3486.38,Widowed,4,"Electronics, Gaming"
+19,Female,54,125878,15,11,2025-06-13,2673.58,Single,3,"Gaming, Electronics, Books"
+20,Other,39,42299,66,10,2025-05-28,3308.52,Divorced,5,"Groceries, Fashion"
+21,Female,45,115259,44,20,2024-09-29,8891.16,Single,2,"Books, Electronics, Travel"
+22,Other,45,41976,62,1,2024-10-02,4557.52,Single,4,Travel
+23,Other,58,29474,70,8,2025-02-25,5105.88,Widowed,1,"Groceries, Gaming, Home Decor"
+24,Other,59,147659,24,15,2024-08-31,3570.43,Divorced,1,Gaming
+25,Male,66,59353,52,12,2024-09-20,5223.86,Single,1,Gaming
+26,Female,66,145879,81,27,2025-03-21,9777.84,Widowed,4,"Electronics, Books"
+27,Other,40,110084,96,1,2025-03-08,1876.5,Single,4,"Fashion, Travel"
+28,Male,49,46309,32,23,2024-08-22,1268.11,Single,3,Home Decor
+29,Male,55,87863,69,20,2025-04-05,6518.53,Single,3,"Groceries, Fitness, Travel"
+30,Other,65,42671,97,9,2025-03-10,5327.89,Divorced,5,"Gaming, Travel, Groceries"
+31,Other,37,22811,59,4,2024-07-31,5364.88,Divorced,3,"Home Decor, Fashion, Books"
+32,Male,69,28680,33,8,2025-03-06,5418.64,Widowed,1,"Travel, Gaming, Groceries"
+33,Male,45,93656,89,18,2025-02-11,5643.76,Single,2,"Books, Fitness, Electronics"
+34,Male,24,66843,16,26,2025-03-22,5774.41,Divorced,4,Electronics
+35,Other,19,51616,48,12,2025-06-05,8885.05,Married,1,Groceries
+36,Male,52,62642,48,16,2025-03-03,8635.08,Widowed,1,"Groceries, Home Decor, Gaming"
+37,Female,66,52711,36,6,2025-03-30,6261.08,Single,3,"Gaming, Electronics"
+38,Female,42,102018,25,29,2024-08-08,5113.33,Widowed,3,Gaming
+39,Male,58,114179,33,4,2024-09-26,5191.99,Married,4,"Home Decor, Gaming, Electronics"
+40,Male,20,106416,33,16,2025-06-20,2817.9,Divorced,5,"Gaming, Fitness, Books"
+41,Other,25,39738,27,2,2024-10-08,5275.05,Married,4,"Fitness, Books, Electronics"
+42,Male,50,114660,61,16,2025-02-15,5934.04,Single,1,Home Decor
+43,Male,61,144123,30,29,2025-05-27,9191.21,Widowed,3,Electronics
+44,Male,54,38711,93,17,2024-09-13,9683.22,Divorced,3,Home Decor
+45,Male,69,85726,85,23,2025-02-01,3510.76,Single,2,Electronics
+46,Male,59,140542,54,26,2024-08-23,5915.58,Widowed,2,"Fashion, Gaming, Home Decor"
+47,Male,39,38070,66,27,2024-10-12,8562.36,Widowed,1,"Groceries, Travel, Fashion"
+48,Other,65,125510,93,10,2024-11-07,4487.92,Divorced,2,Groceries
+49,Other,41,28716,60,26,2024-09-02,6465.0,Widowed,4,Fitness
+50,Female,25,26655,16,14,2025-02-19,4068.04,Divorced,2,"Electronics, Travel, Books"
+51,Other,39,138834,25,26,2025-05-10,9827.49,Widowed,2,"Fitness, Books"
+52,Male,39,51024,52,10,2024-08-20,3381.02,Widowed,3,Groceries
+53,Male,50,100135,53,28,2025-03-26,6417.46,Single,4,"Gaming, Fitness"
+54,Male,62,78335,94,15,2024-07-22,6555.58,Widowed,4,Electronics
+55,Female,67,37019,30,19,2025-02-17,4288.8,Married,3,"Fitness, Books"
+56,Other,43,110852,90,21,2024-08-28,8441.81,Widowed,1,Books
+57,Male,18,86617,1,15,2024-09-25,2777.98,Widowed,1,Travel
+58,Female,18,23343,61,7,2025-01-01,5766.36,Divorced,5,"Electronics, Home Decor, Groceries"
+59,Female,20,105067,26,16,2025-04-17,636.74,Widowed,4,Fashion
+60,Female,64,98832,94,14,2024-12-20,663.03,Divorced,2,Fitness
+61,Male,56,111747,33,5,2025-06-19,956.56,Single,5,"Fashion, Gaming"
+62,Female,69,60158,10,26,2025-02-15,5279.79,Widowed,1,Groceries
+63,Other,62,24611,16,24,2024-08-10,6602.98,Widowed,1,"Gaming, Groceries, Books"
+64,Male,37,38071,12,18,2025-01-30,6611.24,Married,1,Books
+65,Other,68,113610,12,3,2025-05-08,9631.31,Divorced,2,"Home Decor, Gaming, Fitness"
+66,Other,61,40764,13,12,2025-04-08,4083.96,Widowed,5,"Groceries, Home Decor, Books"
+67,Male,67,120386,87,17,2025-04-13,3530.27,Single,2,"Travel, Groceries"
+68,Male,43,96797,34,19,2025-03-29,5212.36,Divorced,2,Electronics
+69,Other,67,46092,75,29,2024-12-07,8133.07,Divorced,1,"Books, Fashion"
+70,Other,54,38888,24,3,2025-01-16,7450.65,Widowed,4,"Electronics, Home Decor"
+71,Female,66,85510,96,24,2025-02-11,9342.19,Widowed,5,Groceries
+72,Male,30,63286,89,3,2024-07-16,4088.42,Single,1,"Books, Fashion"
+73,Female,37,66959,89,22,2025-01-06,1449.86,Widowed,4,Electronics
+74,Male,58,44466,76,9,2024-10-01,9525.59,Married,4,"Travel, Fashion, Gaming"
+75,Other,64,28335,69,3,2025-06-17,5760.18,Single,5,Electronics
+76,Other,40,86703,57,7,2025-03-25,9343.83,Single,2,"Fitness, Gaming, Books"
+77,Male,31,146174,5,3,2024-12-09,5686.2,Widowed,3,"Home Decor, Gaming"
+78,Female,64,92267,9,10,2024-11-01,8465.57,Widowed,5,"Books, Fashion"
+79,Female,26,113105,27,26,2024-12-30,1272.81,Widowed,5,"Travel, Gaming"
+80,Other,36,48295,65,22,2025-02-17,9498.86,Married,1,Fashion
+81,Female,21,144707,70,28,2024-10-10,7882.9,Widowed,3,"Fitness, Groceries"
+82,Male,43,113714,39,3,2025-01-20,607.86,Widowed,4,"Books, Electronics"
+83,Male,37,75771,72,29,2024-07-16,7570.01,Divorced,3,Travel
+84,Female,45,81629,63,28,2024-09-03,5519.52,Widowed,5,"Travel, Fashion"
+85,Other,61,131276,32,13,2024-08-29,3565.52,Widowed,5,"Fashion, Gaming, Electronics"
+86,Other,54,148675,99,19,2025-06-22,1216.63,Widowed,1,Travel
+87,Other,31,148142,31,1,2025-05-19,6050.99,Divorced,1,"Electronics, Books, Fashion"
+88,Female,29,119657,96,16,2024-07-19,4828.74,Married,4,Fitness
+89,Female,25,29337,92,4,2025-04-13,4188.55,Married,4,"Gaming, Travel"
+90,Male,45,47355,41,4,2025-01-01,4805.79,Widowed,1,Groceries
+91,Other,50,75284,84,13,2024-12-04,3074.1,Single,5,"Fashion, Home Decor"
+92,Male,52,138012,6,18,2024-10-29,6021.04,Widowed,1,"Fitness, Books"
+93,Female,27,104791,30,18,2024-11-03,929.58,Divorced,1,"Books, Fitness"
+94,Female,18,120497,96,15,2025-01-16,4079.02,Married,2,"Home Decor, Travel, Books"
+95,Other,42,40309,59,27,2025-01-16,8464.12,Married,2,Fitness
+96,Other,52,28702,1,21,2024-09-04,8714.86,Married,1,Electronics
+97,Male,48,29860,3,21,2025-06-19,7805.38,Single,5,"Electronics, Home Decor"
+98,Male,27,73330,17,21,2025-04-25,2447.93,Married,1,"Fitness, Books, Home Decor"
+99,Other,62,37100,4,1,2024-09-27,945.52,Widowed,2,"Home Decor, Fashion"
+100,Female,51,81877,3,27,2024-09-09,8595.72,Divorced,4,Groceries
+101,Female,47,44285,57,17,2025-03-22,5060.44,Single,5,Books
+102,Other,31,57441,75,19,2025-03-31,1795.53,Married,4,"Groceries, Gaming"
+103,Male,55,127825,98,18,2024-09-29,5770.75,Married,3,"Fitness, Electronics, Books"
+104,Female,51,103251,38,1,2024-08-11,4267.16,Single,2,"Fitness, Gaming, Travel"
+105,Female,34,136868,29,4,2025-02-24,9302.58,Widowed,2,Fitness
+106,Male,37,145911,69,2,2024-10-23,5179.87,Widowed,5,"Fashion, Electronics"
+107,Other,60,147018,75,19,2025-03-23,1724.36,Single,3,"Gaming, Books"
+108,Female,33,44071,4,8,2025-01-09,4410.78,Divorced,3,"Fashion, Groceries, Travel"
+109,Other,46,135359,50,29,2025-03-12,2626.57,Married,5,Gaming
+110,Female,35,131195,42,29,2025-06-20,1342.67,Single,1,Gaming
+111,Other,58,36907,90,14,2025-06-08,1723.11,Married,2,Fitness
+112,Female,44,43624,26,25,2025-05-26,6465.05,Divorced,3,"Home Decor, Gaming, Travel"
+113,Female,65,72796,81,26,2024-09-23,8158.91,Married,1,"Fitness, Groceries, Gaming"
+114,Male,69,145646,47,24,2024-12-10,2743.11,Single,4,"Fashion, Gaming, Electronics"
+115,Female,31,64247,2,13,2025-02-08,848.49,Divorced,3,"Gaming, Fitness, Books"
+116,Female,20,38030,23,14,2024-07-14,5555.08,Widowed,5,"Gaming, Electronics"
+117,Male,55,125186,15,25,2025-03-15,4084.2,Divorced,2,"Travel, Fashion, Groceries"
+118,Female,34,115462,86,26,2025-03-08,1637.74,Married,1,Fashion
+119,Male,37,26168,68,10,2025-05-06,6663.82,Widowed,2,"Fashion, Books, Home Decor"
+120,Female,53,138894,86,2,2025-03-23,7581.68,Married,1,"Travel, Groceries, Fashion"
+121,Female,59,120776,6,20,2024-10-03,6271.77,Single,3,"Books, Fashion, Electronics"
+122,Male,62,132581,33,21,2025-02-12,2640.66,Widowed,4,"Groceries, Travel"
+123,Other,28,138205,62,24,2024-09-04,8501.98,Divorced,3,"Gaming, Travel, Groceries"
+124,Male,48,135751,36,24,2024-12-01,9017.8,Single,4,"Travel, Fashion, Electronics"
+125,Female,21,107886,6,22,2025-04-09,2123.43,Single,3,"Travel, Electronics"
+126,Female,19,20846,75,8,2025-06-16,3159.8,Married,4,Travel
+127,Male,23,50105,68,19,2024-12-12,5322.3,Married,1,"Fitness, Home Decor, Books"
+128,Female,18,124537,14,6,2024-09-22,5307.99,Widowed,4,Home Decor
+129,Male,60,67362,33,6,2025-01-15,4815.55,Single,5,"Electronics, Travel, Fashion"
+130,Female,27,22219,2,13,2025-01-25,8193.81,Divorced,1,"Fitness, Electronics, Groceries"
+131,Female,54,128872,17,9,2025-06-04,4412.49,Single,1,Home Decor
+132,Other,61,62929,78,21,2025-02-25,2447.52,Married,3,"Books, Home Decor, Gaming"
+133,Male,18,25415,64,22,2025-05-13,8497.37,Divorced,3,Groceries
+134,Female,54,141101,60,3,2024-12-11,2270.85,Married,3,"Groceries, Gaming, Fitness"
+135,Other,31,125881,62,4,2025-04-14,8833.41,Single,1,"Travel, Fitness"
+136,Other,57,79207,39,8,2025-06-28,9046.84,Single,5,"Books, Electronics"
+137,Other,50,107062,63,15,2025-02-09,3875.94,Widowed,2,"Gaming, Fashion"
+138,Male,57,112263,51,7,2024-12-26,9428.41,Married,3,"Electronics, Fashion"
+139,Other,69,100910,29,1,2024-11-23,5944.93,Divorced,5,"Home Decor, Gaming"
+140,Other,50,64028,27,23,2024-09-26,818.56,Widowed,2,"Gaming, Electronics"
+141,Male,22,132250,74,1,2025-03-16,8301.94,Divorced,4,Groceries
+142,Other,41,84435,56,15,2025-02-05,5628.68,Single,5,"Electronics, Groceries, Travel"
+143,Female,21,121195,45,2,2025-04-08,6185.21,Married,4,"Home Decor, Fashion"
+144,Female,60,120420,20,11,2024-10-31,9130.28,Single,2,"Home Decor, Groceries"
+145,Other,60,22443,90,13,2025-03-30,5305.94,Single,1,Travel
+146,Other,64,111751,60,11,2024-07-21,9228.13,Single,5,Groceries
+147,Male,25,20126,92,26,2025-05-22,7496.22,Single,1,"Gaming, Fashion"
+148,Male,28,33718,1,14,2025-04-02,9855.99,Single,4,"Books, Electronics"
+149,Female,40,39256,1,22,2025-05-18,2660.26,Single,5,"Fitness, Electronics, Travel"
+150,Other,26,95060,9,10,2024-09-02,544.0,Married,1,"Groceries, Travel, Fashion"
+151,Male,69,69688,90,11,2024-09-21,3790.29,Widowed,2,"Electronics, Travel, Gaming"
+152,Female,51,141178,17,11,2024-07-13,9171.12,Married,1,"Home Decor, Electronics, Travel"
+153,Female,69,65765,88,1,2025-01-16,7914.71,Single,3,"Fitness, Fashion"
+154,Male,43,30395,85,17,2024-08-09,9630.17,Married,1,"Fashion, Groceries"
+155,Male,39,116731,63,29,2024-07-17,5270.85,Married,1,Fashion
+156,Other,47,112374,51,27,2024-12-13,3819.18,Single,5,Groceries
+157,Female,62,62460,30,16,2025-06-23,1124.23,Married,3,"Fitness, Home Decor, Gaming"
+158,Female,67,48865,92,17,2025-03-20,5221.61,Married,3,"Electronics, Fitness, Books"
+159,Female,21,75168,8,29,2025-05-18,9488.1,Divorced,2,"Electronics, Home Decor"
+160,Male,36,95629,34,28,2025-04-16,9799.85,Widowed,2,"Gaming, Books, Electronics"
+161,Male,46,129575,65,25,2024-11-07,2911.94,Widowed,3,"Fitness, Groceries, Fashion"
+162,Male,25,76373,67,19,2025-04-06,5788.86,Divorced,2,"Travel, Books, Fashion"
+163,Other,49,107127,78,24,2024-09-13,8387.09,Married,4,Fitness
+164,Male,38,106925,95,23,2025-07-05,6515.79,Divorced,1,"Books, Gaming, Fitness"
+165,Other,38,73394,19,4,2024-09-30,4503.53,Married,2,Travel
+166,Male,64,43236,20,11,2024-11-20,8338.52,Married,3,"Home Decor, Fitness, Electronics"
+167,Other,29,136243,5,5,2024-10-29,5744.45,Widowed,2,Home Decor
+168,Male,61,140674,86,12,2024-10-05,1585.26,Married,3,"Books, Fashion"
+169,Male,40,106143,96,17,2025-03-19,5368.35,Married,1,"Books, Home Decor"
+170,Other,62,119608,73,22,2024-10-07,8431.84,Divorced,4,"Gaming, Groceries"
+171,Other,46,96908,98,23,2024-09-22,674.71,Single,2,Home Decor
+172,Male,59,58243,41,6,2025-06-08,5764.69,Divorced,1,"Home Decor, Books"
+173,Male,29,21622,86,21,2025-06-15,9050.18,Married,3,"Home Decor, Gaming"
+174,Female,29,66828,53,7,2025-01-20,8462.02,Single,5,"Fitness, Groceries"
+175,Female,63,148575,2,28,2024-09-05,7511.32,Divorced,3,Groceries
+176,Female,53,107410,26,29,2025-02-13,8452.25,Widowed,3,Gaming
+177,Female,56,116999,99,22,2025-04-05,4268.17,Divorced,5,Books
+178,Female,53,94478,20,19,2024-11-27,8494.53,Divorced,1,"Electronics, Fitness"
+179,Female,62,58890,98,9,2025-02-08,5005.25,Single,1,Electronics
+180,Other,57,57904,1,25,2025-05-12,7039.82,Married,2,Groceries
+181,Other,56,44354,3,18,2024-11-25,522.22,Single,3,"Gaming, Groceries"
+182,Male,55,108929,12,19,2025-04-02,1370.03,Widowed,3,Electronics
+183,Female,34,69481,57,23,2024-09-12,1323.7,Widowed,3,"Gaming, Home Decor, Books"
+184,Male,38,31344,87,5,2024-12-26,9815.48,Married,2,Gaming
+185,Male,29,97454,59,26,2025-06-16,874.55,Widowed,2,"Travel, Fashion, Books"
+186,Other,34,32182,26,21,2025-04-17,9197.14,Widowed,5,"Books, Electronics, Fitness"
+187,Other,26,31122,48,8,2024-08-31,9470.53,Divorced,2,"Electronics, Home Decor, Fashion"
+188,Male,47,71571,39,3,2025-03-31,851.57,Divorced,3,Gaming
+189,Other,51,102050,37,11,2025-01-10,4342.61,Single,1,Fashion
+190,Male,39,135608,13,18,2025-02-01,8916.79,Divorced,2,"Home Decor, Fashion"
+191,Male,19,94038,99,10,2025-06-08,702.06,Single,5,Fashion
+192,Female,35,68543,96,3,2025-06-03,590.11,Married,5,"Books, Fashion"
+193,Male,66,81916,62,21,2024-11-18,6461.3,Widowed,4,"Travel, Fitness, Books"
+194,Female,27,125373,25,7,2024-08-06,7507.03,Widowed,1,"Home Decor, Travel, Books"
+195,Other,62,53933,30,18,2024-08-22,7297.76,Widowed,5,Groceries
+196,Male,65,110816,53,14,2025-04-30,1539.94,Divorced,1,"Travel, Fitness, Groceries"
+197,Other,54,144988,43,28,2024-12-26,9832.14,Married,3,"Travel, Fitness"
+198,Other,30,100097,25,7,2025-05-21,1117.37,Divorced,4,Travel
+199,Male,68,121868,74,11,2024-11-28,4148.86,Single,1,Fashion
+200,Other,20,34199,6,5,2024-10-24,6482.89,Married,1,Home Decor
+201,Male,52,82483,61,27,2025-01-15,5166.27,Divorced,1,"Fitness, Fashion, Groceries"
+202,Other,49,27906,13,24,2025-04-14,6132.93,Divorced,5,"Gaming, Fitness"
+203,Female,28,103560,56,3,2025-03-11,1730.39,Single,1,"Travel, Books, Fitness"
+204,Other,42,108801,76,10,2025-07-03,3625.99,Single,1,Gaming
+205,Female,28,70106,98,24,2025-03-10,4040.54,Divorced,3,Books
+206,Other,65,132217,18,6,2025-06-05,2591.74,Married,5,Books
+207,Female,30,65648,40,13,2024-11-30,5402.75,Divorced,3,"Travel, Electronics"
+208,Female,20,21591,40,2,2025-06-02,5874.45,Widowed,5,Fitness
+209,Female,23,106231,19,16,2025-01-25,2830.21,Divorced,3,"Fashion, Groceries, Travel"
+210,Other,65,103624,13,11,2025-05-28,7125.98,Widowed,2,"Home Decor, Fashion, Groceries"
+211,Male,44,22469,60,7,2025-03-01,8868.27,Married,2,Fitness
+212,Female,68,74302,23,10,2025-02-02,3683.63,Divorced,2,"Travel, Home Decor"
+213,Other,31,77932,93,12,2024-09-20,2334.76,Widowed,5,"Books, Electronics"
+214,Male,44,86672,17,8,2024-12-01,4078.61,Married,5,"Fashion, Groceries, Fitness"
+215,Other,65,90981,83,7,2025-04-29,4606.29,Single,2,"Books, Gaming, Fitness"
+216,Female,45,118875,79,5,2024-10-07,9403.67,Divorced,4,"Travel, Home Decor"
+217,Other,21,147706,64,17,2025-06-30,1139.83,Married,2,"Travel, Books"
+218,Male,18,142901,90,24,2024-12-14,8779.6,Divorced,5,"Fashion, Books, Fitness"
+219,Male,52,41427,76,7,2025-06-13,710.17,Widowed,3,"Fitness, Gaming, Electronics"
+220,Female,40,64569,98,14,2024-11-28,9972.68,Divorced,1,"Groceries, Books, Gaming"
+221,Male,30,117768,39,15,2024-09-30,7089.98,Single,4,"Fitness, Electronics"
+222,Male,64,98797,84,22,2025-06-15,8746.52,Divorced,4,Electronics
+223,Other,38,59214,80,5,2025-04-19,4277.15,Married,1,Home Decor
+224,Female,20,25626,1,26,2025-06-27,7585.45,Single,3,Electronics
+225,Female,42,102711,12,18,2024-10-14,4979.56,Married,3,"Electronics, Travel"
+226,Female,42,25776,93,21,2025-07-04,7823.76,Widowed,2,"Travel, Fashion, Fitness"
+227,Other,20,81788,64,12,2025-01-12,9162.44,Widowed,2,"Electronics, Fashion, Groceries"
+228,Female,37,142413,15,25,2024-12-02,1614.43,Widowed,1,"Books, Home Decor"
+229,Female,61,71027,100,9,2025-01-27,2642.63,Married,4,"Travel, Home Decor, Fashion"
+230,Male,39,25109,2,24,2025-05-01,3448.44,Divorced,5,Groceries
+231,Female,25,146740,18,18,2025-04-08,7357.93,Divorced,3,Books
+232,Female,42,84288,41,8,2024-10-18,5064.82,Single,1,Books
+233,Female,29,145816,46,15,2025-04-23,5082.39,Single,4,Home Decor
+234,Female,27,94663,32,18,2024-07-24,5418.26,Divorced,1,Groceries
+235,Other,30,103869,33,13,2025-03-18,3899.11,Widowed,2,"Gaming, Electronics"
+236,Other,56,118393,46,26,2025-02-19,2401.43,Widowed,4,Books
+237,Other,57,91626,61,3,2025-03-11,800.07,Married,1,"Home Decor, Gaming, Electronics"
+238,Male,48,46015,41,18,2024-12-20,8774.21,Divorced,2,"Travel, Home Decor"
+239,Other,37,33629,7,11,2025-04-19,5753.51,Divorced,2,"Fitness, Travel"
+240,Male,43,53662,3,9,2025-01-05,7450.1,Widowed,3,"Gaming, Groceries"
+241,Other,29,30326,12,13,2025-06-17,8781.94,Single,2,"Fitness, Home Decor, Travel"
+242,Female,63,72579,45,8,2024-12-03,8002.14,Married,3,"Fitness, Books"
+243,Male,23,125361,83,22,2025-06-05,9965.17,Married,1,"Travel, Home Decor, Gaming"
+244,Female,20,80315,74,19,2025-06-07,2595.33,Divorced,1,"Home Decor, Travel, Electronics"
+245,Male,29,146768,94,21,2025-02-03,4451.12,Divorced,4,Home Decor
+246,Other,21,145659,20,28,2025-02-10,5661.35,Married,3,Travel
+247,Male,53,45849,98,4,2025-05-07,6178.37,Single,4,"Electronics, Fitness"
+248,Female,56,32201,58,22,2025-03-09,2501.29,Married,5,"Home Decor, Electronics"
+249,Female,57,149044,15,1,2024-07-22,7872.0,Widowed,4,"Electronics, Gaming"
+250,Other,40,31561,44,14,2024-08-12,5369.84,Widowed,5,Fitness
+251,Other,55,145932,41,22,2024-08-30,4347.7,Divorced,1,"Fashion, Books"
+252,Other,56,65893,17,27,2024-08-01,9709.42,Married,2,"Gaming, Fashion, Books"
+253,Female,54,139044,65,8,2025-01-29,9713.3,Widowed,3,"Electronics, Fitness"
+254,Male,20,53397,14,16,2025-04-10,3701.53,Widowed,1,Electronics
+255,Other,22,133939,8,11,2025-07-11,2899.01,Divorced,4,Home Decor
+256,Male,60,75204,47,5,2024-12-20,5008.99,Married,1,"Fashion, Groceries, Fitness"
+257,Other,32,38309,61,20,2024-08-12,1042.33,Married,5,"Fashion, Electronics"
+258,Female,46,100896,35,6,2024-11-09,1341.28,Divorced,1,Fashion
+259,Male,68,53997,12,10,2024-10-09,9872.99,Married,3,"Fitness, Groceries, Gaming"
+260,Female,51,65272,50,29,2025-01-08,6011.07,Single,3,"Electronics, Groceries"
+261,Female,40,125899,38,20,2025-02-11,784.75,Widowed,5,"Books, Fashion"
+262,Other,59,102811,8,18,2024-08-05,1392.06,Married,5,"Gaming, Electronics"
+263,Male,22,144398,86,15,2024-09-25,6785.51,Single,2,"Travel, Books, Electronics"
+264,Female,27,146365,82,17,2025-06-16,8754.6,Divorced,1,"Fitness, Gaming, Home Decor"
+265,Other,25,57208,46,4,2024-09-26,6205.79,Married,5,Fitness
+266,Other,58,130169,62,28,2025-01-01,958.01,Widowed,1,Electronics
+267,Other,58,107128,48,13,2025-04-30,1359.58,Married,1,"Fitness, Travel, Fashion"
+268,Male,21,146561,4,6,2025-06-23,8174.54,Married,2,Travel
+269,Male,58,133942,83,13,2024-08-15,4068.89,Divorced,1,Gaming
+270,Female,32,109152,76,26,2024-12-25,5852.67,Married,3,Home Decor
+271,Male,42,103360,49,17,2024-09-24,2659.06,Single,2,"Fitness, Fashion, Travel"
+272,Male,52,96743,78,10,2024-10-20,4107.96,Widowed,2,"Fashion, Home Decor"
+273,Male,23,112059,93,26,2025-02-09,4111.86,Divorced,2,Fashion
+274,Female,32,31563,100,15,2025-05-30,7766.39,Divorced,2,"Home Decor, Electronics, Fashion"
+275,Female,60,78348,21,23,2025-03-27,571.85,Single,5,"Gaming, Travel, Books"
+276,Male,42,148803,75,19,2024-10-14,2372.96,Single,5,"Home Decor, Books"
+277,Other,36,66881,78,29,2025-05-21,6865.91,Widowed,5,"Gaming, Travel, Groceries"
+278,Male,45,51010,8,16,2025-03-28,6298.17,Divorced,2,"Groceries, Electronics"
+279,Male,66,63596,4,26,2024-08-01,5463.57,Married,4,"Books, Travel"
+280,Female,56,92588,31,7,2024-09-03,8037.37,Married,5,"Fashion, Groceries"
+281,Female,53,139891,68,22,2024-10-22,8249.61,Widowed,4,Home Decor
+282,Female,59,149582,13,23,2025-03-16,5394.16,Widowed,4,Home Decor
+283,Female,43,57384,15,10,2025-03-13,8478.68,Married,1,"Home Decor, Electronics"
+284,Other,44,54084,68,18,2025-02-10,8314.84,Single,4,"Home Decor, Gaming, Electronics"
+285,Male,27,108920,18,19,2025-01-29,1922.19,Divorced,2,Travel
+286,Other,64,46160,99,12,2024-11-28,4992.47,Widowed,5,Fashion
+287,Female,39,97231,37,15,2025-02-02,6560.63,Divorced,1,"Fashion, Fitness"
+288,Male,30,124956,57,25,2024-10-27,3108.13,Divorced,5,"Home Decor, Electronics"
+289,Other,20,144457,39,9,2024-11-13,650.3,Divorced,4,"Fashion, Electronics"
+290,Male,36,58467,90,6,2025-05-31,9102.49,Married,5,"Gaming, Electronics"
+291,Male,53,131335,97,4,2025-04-30,3572.03,Single,3,"Books, Fashion"
+292,Other,58,145926,68,13,2025-05-24,8402.7,Widowed,4,Gaming
+293,Male,61,56378,32,21,2024-10-21,8860.75,Single,2,"Home Decor, Electronics, Groceries"
+294,Male,61,120732,58,3,2024-08-04,6860.13,Widowed,4,"Travel, Books"
+295,Female,55,78576,35,2,2024-09-29,3668.91,Married,4,"Fitness, Books"
+296,Male,53,133092,77,29,2024-09-28,7670.96,Widowed,2,"Groceries, Fashion"
+297,Female,47,118936,55,16,2025-06-30,3801.93,Single,4,"Fitness, Gaming, Electronics"
+298,Other,33,101437,23,28,2025-03-19,1947.95,Single,5,Gaming
+299,Other,47,118452,84,6,2024-11-23,8714.52,Single,5,"Gaming, Books"
+300,Female,69,39169,14,4,2025-02-11,2999.57,Single,2,Fashion
+301,Other,38,55585,91,25,2024-08-15,8340.22,Divorced,2,"Fashion, Books"
+302,Female,23,103362,22,11,2025-02-19,9925.5,Widowed,5,"Groceries, Travel"
+303,Male,29,117518,49,10,2025-01-27,8265.77,Divorced,3,"Fitness, Groceries"
+304,Male,41,65033,30,14,2025-02-28,1842.14,Married,4,"Home Decor, Gaming"
+305,Female,26,98222,21,3,2025-05-07,1961.02,Divorced,3,"Groceries, Books"
+306,Other,31,124211,82,10,2025-06-17,5964.05,Married,5,"Electronics, Gaming"
+307,Other,50,138947,95,14,2024-08-25,6259.4,Divorced,5,"Fashion, Home Decor, Books"
+308,Other,52,71112,6,25,2025-02-21,3991.58,Divorced,5,"Fashion, Groceries"
+309,Male,21,36920,79,4,2025-01-20,5720.53,Divorced,4,Books
+310,Female,48,53613,20,18,2024-08-30,8588.76,Widowed,5,"Books, Fashion, Home Decor"
+311,Other,19,123483,23,19,2024-09-28,1082.82,Widowed,3,"Fitness, Fashion"
+312,Female,27,124792,2,11,2025-01-15,1048.92,Married,1,"Electronics, Home Decor, Groceries"
+313,Male,36,64936,99,21,2024-08-17,7935.61,Divorced,3,"Books, Home Decor, Fashion"
+314,Male,33,143279,97,4,2024-10-25,9968.62,Married,1,Fitness
+315,Male,56,54171,52,29,2024-09-07,6729.37,Divorced,2,"Home Decor, Fitness, Books"
+316,Other,54,52371,63,29,2025-07-05,5492.29,Single,5,Books
+317,Female,39,89252,55,2,2025-05-11,5072.77,Widowed,5,"Electronics, Books"
+318,Male,40,126297,39,5,2025-05-08,3573.25,Divorced,2,"Fashion, Home Decor"
+319,Male,62,76532,53,18,2025-01-20,905.02,Married,1,"Books, Travel, Fashion"
+320,Female,66,90331,11,21,2024-09-07,3027.18,Married,5,"Travel, Fitness"
+321,Male,21,45121,52,16,2024-11-02,6691.25,Married,3,Electronics
+322,Other,46,46035,29,6,2025-05-31,7957.66,Single,5,Books
+323,Female,58,50911,17,24,2025-03-05,8184.39,Widowed,5,Groceries
+324,Male,27,110353,58,28,2024-11-22,4884.04,Married,3,"Groceries, Home Decor, Books"
+325,Female,51,135463,59,22,2024-12-24,2656.16,Widowed,1,"Fitness, Groceries, Home Decor"
+326,Male,41,76492,83,5,2025-04-16,6962.16,Married,5,Travel
+327,Male,40,83530,1,13,2025-02-10,837.92,Married,4,Groceries
+328,Male,57,64857,31,14,2024-11-26,3822.18,Divorced,3,"Fashion, Gaming, Travel"
+329,Other,68,84027,51,11,2024-10-24,5721.35,Divorced,2,"Groceries, Travel"
+330,Male,64,98815,92,17,2024-12-01,7933.61,Divorced,1,Fashion
+331,Other,19,116718,50,3,2025-05-24,2926.43,Widowed,4,"Fashion, Travel"
+332,Other,58,79560,89,26,2025-03-15,898.54,Married,2,"Electronics, Travel"
+333,Female,38,105667,12,27,2024-10-27,6217.88,Divorced,5,"Gaming, Groceries, Books"
+334,Female,33,29503,32,28,2024-11-28,1716.91,Single,1,"Fitness, Books"
+335,Female,26,42168,59,14,2025-03-10,4192.2,Widowed,2,"Books, Groceries"
+336,Other,69,22461,84,21,2025-01-21,2375.97,Widowed,1,Travel
+337,Male,52,50841,32,23,2025-06-03,8541.89,Widowed,1,"Home Decor, Fitness, Gaming"
+338,Male,35,120500,13,21,2025-03-08,8498.99,Married,4,"Electronics, Travel, Fitness"
+339,Female,39,78005,89,22,2024-07-29,910.15,Divorced,2,"Books, Gaming"
+340,Male,46,130804,79,20,2024-10-02,9668.73,Widowed,3,"Electronics, Groceries, Fashion"
+341,Female,41,49739,77,22,2025-01-22,7702.76,Single,1,"Books, Gaming, Home Decor"
+342,Other,36,101942,29,7,2025-03-26,6544.77,Single,5,"Groceries, Gaming, Travel"
+343,Other,25,61321,58,16,2025-05-01,2843.45,Single,5,"Travel, Fashion, Books"
+344,Other,18,58787,99,10,2024-07-23,2438.34,Divorced,2,Books
+345,Other,63,100102,91,27,2025-05-07,3876.15,Single,5,Fitness
+346,Male,69,104899,86,10,2025-04-13,8479.66,Single,4,Fashion
+347,Female,31,135725,34,21,2025-06-22,3605.85,Widowed,3,"Groceries, Electronics, Gaming"
+348,Male,23,32087,83,5,2025-01-07,3998.94,Widowed,5,"Groceries, Travel"
+349,Female,41,86549,99,26,2024-09-22,6798.9,Widowed,5,"Fitness, Gaming"
+350,Female,55,84429,4,28,2025-05-16,4182.9,Single,1,"Fashion, Books, Gaming"
+351,Male,24,88099,93,14,2025-07-09,1116.11,Single,2,"Electronics, Home Decor, Gaming"
+352,Other,69,113059,24,2,2025-02-04,8147.4,Married,4,"Gaming, Groceries, Travel"
+353,Other,66,88926,83,22,2025-02-10,3675.26,Single,2,"Home Decor, Gaming"
+354,Male,48,135555,64,19,2025-01-20,1900.8,Single,1,"Books, Groceries, Fitness"
+355,Female,50,53937,63,20,2025-03-21,6183.14,Married,3,"Fashion, Fitness, Gaming"
+356,Female,28,36184,45,1,2024-12-26,6543.68,Widowed,3,"Books, Gaming, Fashion"
+357,Other,23,50254,78,28,2025-04-28,7529.87,Widowed,2,Home Decor
+358,Female,69,115804,10,18,2024-10-26,748.87,Single,1,"Gaming, Electronics"
+359,Female,62,55525,81,27,2025-05-22,9436.45,Widowed,2,"Books, Home Decor, Fashion"
+360,Male,63,90553,69,29,2024-08-26,2267.96,Single,1,Books
+361,Female,27,45279,5,4,2025-05-03,6496.12,Divorced,2,"Groceries, Gaming, Home Decor"
+362,Female,18,22839,57,4,2024-08-20,1044.16,Divorced,4,Fashion
+363,Female,48,87155,24,25,2025-06-06,627.32,Widowed,4,"Gaming, Travel"
+364,Other,47,29557,92,7,2025-01-30,3118.32,Married,2,"Electronics, Fashion"
+365,Female,48,29833,89,13,2025-05-03,1120.98,Divorced,5,"Travel, Fashion, Books"
+366,Other,37,60785,57,21,2024-12-28,3494.3,Divorced,3,"Gaming, Books, Electronics"
+367,Other,23,116894,15,18,2025-02-02,6806.0,Married,4,"Fitness, Home Decor, Books"
+368,Female,65,124646,21,10,2025-02-08,4478.54,Widowed,1,Fitness
+369,Female,38,148081,69,3,2025-04-16,2381.93,Divorced,1,"Books, Fashion, Electronics"
+370,Male,68,107896,85,12,2025-02-01,1936.84,Married,4,"Fashion, Home Decor, Fitness"
+371,Male,59,35352,71,22,2024-09-26,5472.21,Married,5,Home Decor
+372,Male,51,91707,58,11,2025-01-24,8021.15,Divorced,1,Groceries
+373,Other,51,147941,70,2,2025-05-08,4571.99,Single,5,"Groceries, Electronics"
+374,Male,39,131672,66,10,2025-04-05,8688.88,Widowed,3,Books
+375,Male,56,113269,76,24,2024-09-21,8160.83,Widowed,2,"Home Decor, Books, Gaming"
+376,Female,68,120158,49,7,2024-10-08,2064.71,Married,4,"Travel, Fitness"
+377,Female,69,50933,15,24,2024-11-22,8839.39,Single,4,"Books, Home Decor"
+378,Other,44,76700,40,26,2024-10-01,7834.12,Married,2,Fashion
+379,Other,20,62951,44,1,2025-05-31,5229.22,Married,4,"Home Decor, Groceries, Gaming"
+380,Female,42,71578,50,11,2024-12-27,9662.53,Single,4,"Electronics, Gaming"
+381,Other,25,142775,92,9,2025-01-29,3126.2,Divorced,1,"Home Decor, Gaming, Fashion"
+382,Male,32,107983,82,10,2024-08-30,7111.04,Divorced,4,"Groceries, Travel"
+383,Other,24,57711,3,13,2024-10-26,9023.27,Divorced,3,"Gaming, Electronics"
+384,Female,50,145147,1,23,2025-07-04,8992.9,Widowed,4,"Fitness, Travel, Fashion"
+385,Female,54,87843,94,6,2024-11-08,8640.3,Divorced,1,"Electronics, Groceries, Books"
+386,Female,63,130454,16,1,2025-05-10,5110.91,Married,5,Books
+387,Other,47,139052,34,4,2025-04-01,9807.93,Divorced,3,"Electronics, Gaming, Books"
+388,Male,44,28004,25,3,2024-07-24,778.96,Widowed,4,"Travel, Groceries"
+389,Male,43,145949,5,3,2025-01-04,3699.98,Divorced,1,"Travel, Books"
+390,Male,67,20645,83,28,2024-07-13,4863.02,Widowed,5,"Electronics, Fashion"
+391,Other,39,29346,76,28,2024-09-29,2150.74,Single,5,"Groceries, Fitness"
+392,Other,50,45556,35,20,2025-06-08,3805.44,Divorced,2,"Electronics, Fitness"
+393,Male,28,125400,23,16,2025-02-12,7511.66,Married,4,"Travel, Gaming, Groceries"
+394,Female,47,60718,91,3,2024-09-26,1699.52,Married,2,"Electronics, Fashion"
+395,Other,52,94663,28,15,2024-12-23,6725.18,Married,1,"Fashion, Fitness, Travel"
+396,Other,40,110751,63,3,2025-07-08,8730.67,Married,5,"Travel, Gaming, Groceries"
+397,Male,63,28179,14,4,2025-06-03,8170.26,Widowed,4,Fitness
+398,Male,32,30449,97,6,2024-11-03,501.79,Married,3,"Travel, Fashion, Home Decor"
+399,Female,51,35223,46,6,2025-02-20,8713.35,Divorced,3,"Groceries, Books, Travel"
+400,Male,47,91678,78,27,2025-04-19,671.0,Single,2,"Fitness, Home Decor"
+401,Female,40,73909,48,25,2025-04-20,9741.38,Divorced,3,"Books, Gaming"
+402,Other,36,44264,28,20,2025-01-20,9646.7,Married,1,"Electronics, Fashion, Home Decor"
+403,Other,36,72142,14,24,2024-08-29,1149.24,Single,1,"Groceries, Home Decor"
+404,Male,26,79711,33,24,2024-09-07,3362.02,Single,3,Groceries
+405,Female,52,31240,59,14,2024-12-02,6188.68,Widowed,3,"Groceries, Home Decor"
+406,Other,58,126108,86,9,2025-03-14,2260.64,Widowed,5,"Gaming, Travel"
+407,Other,66,71631,30,12,2025-06-07,3043.88,Married,2,Books
+408,Other,38,70500,48,20,2024-07-20,6190.3,Married,1,Gaming
+409,Male,26,105436,9,4,2025-06-07,8378.22,Married,1,Travel
+410,Other,40,52174,40,12,2025-04-27,4912.12,Widowed,1,"Books, Groceries, Fashion"
+411,Male,43,147795,93,22,2024-11-22,9507.03,Married,4,Fitness
+412,Male,46,98002,4,23,2024-07-29,1490.14,Married,4,Groceries
+413,Male,20,31093,66,24,2025-01-31,4992.52,Married,1,Gaming
+414,Other,25,62070,38,6,2024-12-10,2916.72,Divorced,1,Books
+415,Female,29,48933,90,27,2025-02-26,2769.14,Single,2,Fitness
+416,Female,46,62604,99,8,2025-02-20,6302.41,Married,5,Gaming
+417,Male,30,106716,49,14,2025-01-03,8416.51,Divorced,4,Gaming
+418,Female,43,116038,85,21,2025-01-01,5370.34,Divorced,3,"Fitness, Books"
+419,Female,58,70952,88,5,2024-09-10,6362.13,Widowed,5,"Gaming, Books, Electronics"
+420,Other,56,69334,41,7,2025-01-01,7171.46,Widowed,3,"Gaming, Home Decor, Fashion"
+421,Male,30,79518,46,13,2025-07-11,4203.79,Widowed,3,Books
+422,Male,62,129835,61,16,2024-09-14,7325.08,Divorced,4,"Books, Electronics"
+423,Male,22,57383,25,27,2025-01-19,985.79,Single,5,"Fitness, Fashion, Groceries"
+424,Male,40,23760,47,20,2024-08-08,2938.6,Divorced,4,"Gaming, Travel"
+425,Female,50,145566,36,18,2025-02-15,6165.05,Single,4,Fashion
+426,Male,50,36715,15,9,2024-10-27,6851.44,Widowed,1,"Home Decor, Travel"
+427,Male,19,54610,75,13,2024-10-19,5270.46,Divorced,3,"Gaming, Electronics"
+428,Male,26,125848,39,28,2024-10-26,7377.74,Divorced,3,Travel
+429,Male,19,119932,38,3,2024-07-27,1850.3,Divorced,1,Travel
+430,Male,29,137154,65,23,2024-09-14,4294.0,Married,5,Travel
+431,Male,66,94878,95,25,2024-10-06,8258.87,Married,4,Home Decor
+432,Female,60,148657,36,3,2025-04-30,3409.98,Married,2,"Fashion, Fitness"
+433,Other,61,62849,32,3,2024-12-29,8646.84,Divorced,1,"Fashion, Gaming, Fitness"
+434,Male,40,102279,75,16,2025-02-02,4026.14,Divorced,1,"Fitness, Electronics"
+435,Other,53,148379,33,24,2025-01-26,5360.97,Widowed,4,Fitness
+436,Female,24,88803,37,24,2024-08-25,3785.84,Married,4,"Travel, Gaming, Books"
+437,Female,46,137961,60,18,2025-03-08,6161.89,Single,1,"Home Decor, Electronics"
+438,Male,22,99239,34,16,2025-03-18,6012.1,Widowed,1,"Books, Electronics, Home Decor"
+439,Female,21,25744,50,5,2024-08-02,5301.82,Single,3,Gaming
+440,Female,21,142521,27,14,2024-07-14,4185.87,Divorced,2,"Fashion, Books, Travel"
+441,Male,67,38693,59,29,2024-11-09,3247.83,Single,5,"Electronics, Travel"
+442,Female,54,91849,35,23,2025-02-28,6227.96,Widowed,4,Gaming
+443,Other,66,45372,77,27,2025-03-08,4200.08,Single,5,"Books, Groceries"
+444,Female,21,47716,37,9,2024-09-10,5556.45,Single,5,"Books, Fitness"
+445,Other,40,70098,3,10,2024-07-23,2963.68,Widowed,3,"Home Decor, Fashion"
+446,Male,66,20340,46,12,2025-06-21,9680.97,Single,4,"Fashion, Fitness, Travel"
+447,Male,18,119931,63,24,2025-03-09,4718.42,Divorced,2,"Groceries, Fashion, Travel"
+448,Other,53,83922,17,3,2024-11-02,3354.65,Married,1,"Travel, Groceries"
+449,Female,36,97988,85,8,2024-10-01,8599.3,Divorced,5,"Gaming, Fitness"
+450,Female,36,95774,64,27,2025-03-17,6191.65,Married,5,"Home Decor, Gaming, Fashion"
+451,Male,29,96021,21,22,2025-07-07,8045.0,Married,4,Travel
+452,Other,63,49689,12,6,2025-06-25,9516.57,Married,2,"Electronics, Books"
+453,Female,53,92805,75,1,2024-12-08,4691.63,Divorced,3,"Books, Fashion, Groceries"
+454,Male,68,56593,81,19,2024-12-05,4372.05,Divorced,3,"Gaming, Books, Home Decor"
+455,Other,64,71971,7,13,2025-01-30,2404.51,Divorced,1,Electronics
+456,Male,34,22384,97,8,2025-02-15,3463.04,Divorced,3,"Fitness, Electronics, Books"
+457,Female,22,131628,47,14,2025-01-04,9300.63,Married,2,"Electronics, Home Decor"
+458,Female,46,25845,43,3,2025-05-19,5508.65,Divorced,5,"Gaming, Fashion"
+459,Female,58,72887,35,24,2024-09-29,9595.76,Divorced,3,"Travel, Fashion, Books"
+460,Male,67,30503,26,17,2024-08-19,522.02,Divorced,3,Travel
+461,Male,53,52792,37,1,2025-06-05,553.83,Divorced,5,Home Decor
+462,Female,18,40131,35,2,2025-01-02,1341.74,Single,1,"Fashion, Books"
+463,Female,63,68511,4,6,2025-04-28,3813.8,Divorced,3,"Books, Groceries"
+464,Other,30,130252,96,2,2025-05-28,9573.59,Widowed,3,"Groceries, Gaming"
+465,Male,33,90721,40,17,2025-01-31,8047.9,Single,4,"Travel, Electronics"
+466,Female,19,136185,13,24,2025-03-23,2505.57,Married,2,"Electronics, Fashion, Books"
+467,Female,20,88487,87,14,2025-03-14,4348.48,Single,3,"Books, Home Decor"
+468,Female,46,43782,53,7,2024-08-25,5715.31,Divorced,5,Travel
+469,Male,38,142258,53,19,2024-09-02,7716.31,Single,1,"Electronics, Gaming, Books"
+470,Male,40,108607,62,10,2025-07-02,8303.6,Divorced,4,"Groceries, Electronics"
+471,Male,31,51921,28,14,2025-05-20,8137.61,Single,4,Books
+472,Female,40,76071,82,12,2025-03-15,2006.93,Widowed,2,"Electronics, Groceries"
+473,Female,51,68766,75,9,2024-12-20,4323.24,Married,1,"Electronics, Fitness, Fashion"
+474,Female,66,109081,93,26,2024-10-11,3123.61,Married,1,"Fashion, Gaming, Fitness"
+475,Other,41,78161,8,9,2024-08-21,9434.26,Married,5,"Fashion, Home Decor, Gaming"
+476,Female,18,91274,19,9,2025-01-31,3476.81,Married,4,"Fitness, Books"
+477,Female,32,110930,13,19,2025-01-16,4084.48,Married,4,"Fashion, Home Decor, Travel"
+478,Male,54,128944,58,23,2024-12-06,5863.98,Widowed,4,"Groceries, Gaming, Fashion"
+479,Female,42,149655,55,10,2025-01-18,2086.05,Single,5,"Groceries, Gaming, Home Decor"
+480,Other,30,49796,33,24,2024-07-13,1731.21,Divorced,4,"Fashion, Groceries, Gaming"
+481,Male,42,95357,73,21,2024-08-06,7927.33,Divorced,4,Gaming
+482,Female,59,65968,48,7,2025-06-14,8725.29,Single,3,"Books, Electronics, Fashion"
+483,Female,65,107697,78,3,2024-11-18,527.37,Widowed,1,Books
+484,Female,35,47364,13,4,2025-06-11,7336.71,Divorced,1,Fashion
+485,Female,55,115690,54,24,2025-04-03,6939.23,Widowed,5,Electronics
+486,Female,51,105896,88,8,2024-10-22,1694.38,Widowed,3,"Fitness, Travel"
+487,Female,61,78283,21,28,2024-09-05,2392.55,Single,4,Books
+488,Other,60,100098,13,25,2025-05-24,1559.37,Divorced,2,Fashion
+489,Male,61,77134,53,10,2025-05-27,2797.94,Widowed,2,"Books, Electronics"
+490,Female,34,59779,14,10,2025-01-30,5182.21,Married,1,"Fitness, Home Decor"
+491,Female,69,44087,29,11,2024-11-26,895.74,Single,2,"Electronics, Groceries"
+492,Male,18,40307,28,16,2025-01-18,2588.15,Married,4,"Fitness, Fashion"
+493,Other,29,23866,53,10,2025-01-06,4134.51,Divorced,1,"Gaming, Travel"
+494,Male,54,101029,7,21,2025-02-09,7844.85,Widowed,2,"Electronics, Home Decor, Books"
+495,Other,69,81240,12,16,2024-12-16,3348.11,Single,4,Fitness
+496,Male,24,76547,51,9,2025-02-02,9036.33,Married,1,"Fashion, Books, Fitness"
+497,Male,42,48151,72,13,2024-12-10,1947.11,Widowed,3,Groceries
+498,Female,58,22204,98,2,2024-12-19,7600.72,Married,4,"Fitness, Travel"
+499,Male,21,132217,9,23,2025-03-01,5542.0,Divorced,4,"Home Decor, Fitness"
+500,Other,28,81215,28,22,2024-11-21,2447.32,Widowed,2,"Groceries, Fitness, Home Decor"
