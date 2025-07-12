@@ -1,0 +1,4 @@
+Age,Annual_Income,Spending_Score,Purchase_Frequency,Total_Spending,Family_Size,Gender,Marital_Status,Cluster
+28,55000,72,12,18500,3,Male,Single,2
+45,87000,45,6,29000,4,Female,Married,1
+36,63000,58,9,21000,2,Other,Single,2
